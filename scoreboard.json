@@ -415,6 +415,12 @@
       "last_solved": "2020-12-10T23:22:28.099Z"
     },
     {
+      "display_name": "zup",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T23:40:15.436Z"
+    },
+    {
       "display_name": "oja",
       "challenges_solved": "10",
       "eggs_solved": "5",
@@ -431,12 +437,6 @@
       "challenges_solved": "10",
       "eggs_solved": "5",
       "last_solved": "2020-12-10T11:47:32.572Z"
-    },
-    {
-      "display_name": "zup",
-      "challenges_solved": "10",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-10T14:40:00.432Z"
     },
     {
       "display_name": "milje",
@@ -581,6 +581,12 @@
       "challenges_solved": "10",
       "eggs_solved": "3",
       "last_solved": "2020-12-10T14:34:54.363Z"
+    },
+    {
+      "display_name": "T-StoneLeif",
+      "challenges_solved": "10",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-10T23:32:12.252Z"
     },
     {
       "display_name": "waffle",
@@ -1013,12 +1019,6 @@
       "challenges_solved": "9",
       "eggs_solved": "3",
       "last_solved": "2020-12-09T14:23:39.436Z"
-    },
-    {
-      "display_name": "T-StoneLeif",
-      "challenges_solved": "9",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-09T14:35:26.981Z"
     },
     {
       "display_name": "Tobias T.",
@@ -5323,6 +5323,12 @@
       "last_solved": "2020-12-10T22:43:44.042Z"
     },
     {
+      "display_name": "mr_robot",
+      "challenges_solved": "2",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-10T23:37:39.389Z"
+    },
+    {
       "display_name": "Alv1",
       "challenges_solved": "1",
       "eggs_solved": "1",
@@ -8117,12 +8123,6 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-10T22:43:46.124Z"
-    },
-    {
-      "display_name": "mr_robot",
-      "challenges_solved": "1",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-10T22:57:58.989Z"
     },
     {
       "display_name": "betjent2081",
