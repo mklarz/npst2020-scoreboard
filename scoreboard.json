@@ -163,6 +163,12 @@
       "last_solved": "2020-12-10T15:55:37.540Z"
     },
     {
+      "display_name": "Sithis",
+      "challenges_solved": "10",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-10T16:15:32.903Z"
+    },
+    {
       "display_name": "marcelgs",
       "challenges_solved": "10",
       "eggs_solved": "6",
@@ -217,16 +223,22 @@
       "last_solved": "2020-12-10T13:25:00.070Z"
     },
     {
-      "display_name": "Sithis",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T15:25:29.483Z"
-    },
-    {
       "display_name": "Arkanor",
       "challenges_solved": "10",
       "eggs_solved": "6",
       "last_solved": "2020-12-10T15:28:25.061Z"
+    },
+    {
+      "display_name": "Røllik Münch",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T16:18:59.006Z"
+    },
+    {
+      "display_name": "Goldwave",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T16:19:16.419Z"
     },
     {
       "display_name": "Alias",
@@ -319,6 +331,12 @@
       "last_solved": "2020-12-10T16:03:21.020Z"
     },
     {
+      "display_name": "stigru",
+      "challenges_solved": "10",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-10T16:15:55.395Z"
+    },
+    {
       "display_name": "Zarux",
       "challenges_solved": "10",
       "eggs_solved": "4",
@@ -367,12 +385,6 @@
       "last_solved": "2020-12-10T15:56:41.943Z"
     },
     {
-      "display_name": "Røllik Münch",
-      "challenges_solved": "9",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-09T16:01:07.021Z"
-    },
-    {
       "display_name": "wat",
       "challenges_solved": "9",
       "eggs_solved": "6",
@@ -413,12 +425,6 @@
       "challenges_solved": "9",
       "eggs_solved": "6",
       "last_solved": "2020-12-09T17:24:48.855Z"
-    },
-    {
-      "display_name": "Goldwave",
-      "challenges_solved": "9",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-09T17:33:34.318Z"
     },
     {
       "display_name": "smygulf",
@@ -617,12 +623,6 @@
       "challenges_solved": "9",
       "eggs_solved": "5",
       "last_solved": "2020-12-09T17:39:19.661Z"
-    },
-    {
-      "display_name": "stigru",
-      "challenges_solved": "9",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-09T17:46:43.201Z"
     },
     {
       "display_name": "betjent635",
