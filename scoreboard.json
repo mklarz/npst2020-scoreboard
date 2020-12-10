@@ -331,16 +331,22 @@
       "last_solved": "2020-12-10T19:39:00.125Z"
     },
     {
-      "display_name": "Alias",
+      "display_name": "fjank",
       "challenges_solved": "10",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-10T07:16:47.226Z"
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T20:08:26.284Z"
     },
     {
       "display_name": "kroi",
       "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T20:14:47.308Z"
+    },
+    {
+      "display_name": "Alias",
+      "challenges_solved": "10",
       "eggs_solved": "5",
-      "last_solved": "2020-12-10T09:39:30.436Z"
+      "last_solved": "2020-12-10T07:16:47.226Z"
     },
     {
       "display_name": "oja",
@@ -521,12 +527,6 @@
       "challenges_solved": "9",
       "eggs_solved": "6",
       "last_solved": "2020-12-09T18:39:43.259Z"
-    },
-    {
-      "display_name": "fjank",
-      "challenges_solved": "9",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-09T19:21:47.602Z"
     },
     {
       "display_name": "Scalpel 🍷🎅",
@@ -1783,6 +1783,12 @@
       "last_solved": "2020-12-10T18:31:01.330Z"
     },
     {
+      "display_name": "Vikers",
+      "challenges_solved": "7",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-10T20:13:47.216Z"
+    },
+    {
       "display_name": "betjent2018",
       "challenges_solved": "7",
       "eggs_solved": "1",
@@ -1955,12 +1961,6 @@
       "challenges_solved": "6",
       "eggs_solved": "2",
       "last_solved": "2020-12-06T17:21:16.860Z"
-    },
-    {
-      "display_name": "Vikers",
-      "challenges_solved": "6",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-06T19:21:20.890Z"
     },
     {
       "display_name": "Aeriks1",
@@ -8099,6 +8099,12 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-10T19:32:25.808Z"
+    },
+    {
+      "display_name": "betjent2495",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-10T20:08:33.490Z"
     },
     {
       "display_name": "betjent2081",
