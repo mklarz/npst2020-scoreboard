@@ -253,6 +253,12 @@
       "last_solved": "2020-12-10T13:05:05.033Z"
     },
     {
+      "display_name": "iLoop",
+      "challenges_solved": "10",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-10T14:20:08.716Z"
+    },
+    {
       "display_name": "Zarux",
       "challenges_solved": "10",
       "eggs_solved": "4",
@@ -479,12 +485,6 @@
       "challenges_solved": "9",
       "eggs_solved": "5",
       "last_solved": "2020-12-09T10:44:43.286Z"
-    },
-    {
-      "display_name": "iLoop",
-      "challenges_solved": "9",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-09T11:20:17.380Z"
     },
     {
       "display_name": "lespaul",
@@ -907,6 +907,12 @@
       "last_solved": "2020-12-10T10:32:28.106Z"
     },
     {
+      "display_name": "preliminary",
+      "challenges_solved": "9",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-10T14:22:58.482Z"
+    },
+    {
       "display_name": "BokMonster",
       "challenges_solved": "9",
       "eggs_solved": "2",
@@ -929,12 +935,6 @@
       "challenges_solved": "9",
       "eggs_solved": "2",
       "last_solved": "2020-12-10T11:22:18.298Z"
-    },
-    {
-      "display_name": "preliminary",
-      "challenges_solved": "9",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-10T13:15:59.442Z"
     },
     {
       "display_name": "Krokofant",
