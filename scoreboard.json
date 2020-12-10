@@ -97,6 +97,18 @@
       "last_solved": "2020-12-10T11:42:16.015Z"
     },
     {
+      "display_name": "supergrecko",
+      "challenges_solved": "10",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-10T11:46:05.178Z"
+    },
+    {
+      "display_name": "pingu",
+      "challenges_solved": "10",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-10T11:46:42.457Z"
+    },
+    {
       "display_name": "🎁 Bummie",
       "challenges_solved": "10",
       "eggs_solved": "6",
@@ -109,22 +121,10 @@
       "last_solved": "2020-12-10T07:07:26.008Z"
     },
     {
-      "display_name": "supergrecko",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T08:35:03.192Z"
-    },
-    {
       "display_name": "bitBug",
       "challenges_solved": "10",
       "eggs_solved": "6",
       "last_solved": "2020-12-10T08:37:27.218Z"
-    },
-    {
-      "display_name": "pingu",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T08:44:43.270Z"
     },
     {
       "display_name": "jo_k_er",
@@ -215,6 +215,12 @@
       "challenges_solved": "10",
       "eggs_solved": "5",
       "last_solved": "2020-12-10T10:45:18.823Z"
+    },
+    {
+      "display_name": "Fireholt",
+      "challenges_solved": "10",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-10T11:47:32.572Z"
     },
     {
       "display_name": "Zarux",
@@ -431,12 +437,6 @@
       "challenges_solved": "9",
       "eggs_solved": "6",
       "last_solved": "2020-12-10T11:26:37.454Z"
-    },
-    {
-      "display_name": "Fireholt",
-      "challenges_solved": "9",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-09T06:33:23.163Z"
     },
     {
       "display_name": "langemyh",
@@ -671,6 +671,12 @@
       "challenges_solved": "9",
       "eggs_solved": "5",
       "last_solved": "2020-12-10T11:24:17.013Z"
+    },
+    {
+      "display_name": "DagensHelt",
+      "challenges_solved": "9",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-10T11:46:32.158Z"
     },
     {
       "display_name": "josteitv",
@@ -911,12 +917,6 @@
       "challenges_solved": "8",
       "eggs_solved": "5",
       "last_solved": "2020-12-08T06:22:18.928Z"
-    },
-    {
-      "display_name": "DagensHelt",
-      "challenges_solved": "8",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-08T08:32:50.568Z"
     },
     {
       "display_name": "DagensAntihelt",
