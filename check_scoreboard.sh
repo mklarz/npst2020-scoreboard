@@ -17,9 +17,9 @@ cat "$SCRIPT_PATH/scoreboard.min.json" | jq > "$SCRIPT_PATH/scoreboard.json"
 
 if [[ `git status --porcelain` ]]; then
 	echo "There are differences, updating"
-	#git add -A
-	#git commit -m "[SCPREBOARD] update"
-	#git push origin main
+	git add -A
+	git commit -m "[SCOREBOARD] update"
+	git push origin main
 else
 	echo "No differences"
 fi
