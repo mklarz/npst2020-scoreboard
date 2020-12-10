@@ -85,6 +85,18 @@
       "last_solved": "2020-12-10T11:30:48.554Z"
     },
     {
+      "display_name": "Djolo",
+      "challenges_solved": "10",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-10T11:40:48.038Z"
+    },
+    {
+      "display_name": "Bob Ross",
+      "challenges_solved": "10",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-10T11:42:16.015Z"
+    },
+    {
       "display_name": "🎁 Bummie",
       "challenges_solved": "10",
       "eggs_solved": "6",
@@ -95,18 +107,6 @@
       "challenges_solved": "10",
       "eggs_solved": "6",
       "last_solved": "2020-12-10T07:07:26.008Z"
-    },
-    {
-      "display_name": "Djolo",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T08:34:06.477Z"
-    },
-    {
-      "display_name": "Bob Ross",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T08:34:41.991Z"
     },
     {
       "display_name": "supergrecko",
@@ -805,6 +805,12 @@
       "last_solved": "2020-12-10T11:16:06.939Z"
     },
     {
+      "display_name": "Oldolo",
+      "challenges_solved": "9",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-10T11:40:33.006Z"
+    },
+    {
       "display_name": "skyranger",
       "challenges_solved": "9",
       "eggs_solved": "3",
@@ -1157,12 +1163,6 @@
       "challenges_solved": "8",
       "eggs_solved": "4",
       "last_solved": "2020-12-09T19:02:03.952Z"
-    },
-    {
-      "display_name": "Oldolo",
-      "challenges_solved": "8",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-09T20:32:28.669Z"
     },
     {
       "display_name": "UnEthicalNgo",
