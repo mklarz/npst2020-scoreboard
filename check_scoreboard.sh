@@ -20,6 +20,7 @@ if [[ `git status --porcelain` ]]; then
 	git add -A
 	git commit -m "[SCOREBOARD] update"
 	git push origin main
+  python3 ./generate_series.py
 else
 	echo "No differences"
 fi
