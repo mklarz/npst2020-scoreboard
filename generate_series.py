@@ -23,6 +23,7 @@ for commit in commits:
         current_challenges = int(scoreboard_user["challenges_solved"])
         current_eggs = int(scoreboard_user["eggs_solved"])
         name = scoreboard_user["display_name"]
+        # FIXME: Dateparsing is extremly costly, see if we can just pass the last_solved isoformat to frontend
         last_solve = round(dateutil.parser.parse(scoreboard_user["last_solved"]).timestamp()) * 1000
 
         if name not in users:
@@ -57,8 +58,8 @@ series = {
 for index, scoreboard_user in enumerate(last_scoreboard[:LIMIT]):
     name = scoreboard_user["display_name"]
     user = users[name]
-    last_challenge = user["challenges"][-1][1]
-    last_egg = user["eggs"][-1][1]
+    last_challenge = scoreboard_user["challenges_solved"]
+    last_egg = scoreboard_user["eggs_solved"]
     base = {
         "name": "#{}. {} ({}🏆 - {}🥚)".format(index + 1, name, last_challenge, last_egg),
         "step": "right",
