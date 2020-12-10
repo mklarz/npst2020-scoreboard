@@ -175,6 +175,12 @@
       "last_solved": "2020-12-10T11:10:00.423Z"
     },
     {
+      "display_name": "clorin",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T11:20:54.687Z"
+    },
+    {
       "display_name": "Alias",
       "challenges_solved": "10",
       "eggs_solved": "5",
@@ -349,12 +355,6 @@
       "last_solved": "2020-12-09T20:02:29.921Z"
     },
     {
-      "display_name": "clorin",
-      "challenges_solved": "9",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-09T20:10:04.413Z"
-    },
-    {
       "display_name": "SlalomKvark",
       "challenges_solved": "9",
       "eggs_solved": "6",
@@ -421,6 +421,12 @@
       "last_solved": "2020-12-10T08:49:06.142Z"
     },
     {
+      "display_name": "vcpo",
+      "challenges_solved": "9",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T11:21:16.691Z"
+    },
+    {
       "display_name": "Fireholt",
       "challenges_solved": "9",
       "eggs_solved": "5",
@@ -437,12 +443,6 @@
       "challenges_solved": "9",
       "eggs_solved": "5",
       "last_solved": "2020-12-09T09:17:01.222Z"
-    },
-    {
-      "display_name": "vcpo",
-      "challenges_solved": "9",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-09T10:37:19.600Z"
     },
     {
       "display_name": "SmokeBox",
@@ -667,6 +667,12 @@
       "last_solved": "2020-12-10T10:25:07.690Z"
     },
     {
+      "display_name": "StoreStian",
+      "challenges_solved": "9",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-10T11:24:17.013Z"
+    },
+    {
       "display_name": "josteitv",
       "challenges_solved": "9",
       "eggs_solved": "4",
@@ -787,12 +793,6 @@
       "last_solved": "2020-12-09T23:50:03.161Z"
     },
     {
-      "display_name": "StoreStian",
-      "challenges_solved": "9",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T07:21:07.195Z"
-    },
-    {
       "display_name": "Betjent Eirik",
       "challenges_solved": "9",
       "eggs_solved": "4",
@@ -881,6 +881,12 @@
       "challenges_solved": "9",
       "eggs_solved": "2",
       "last_solved": "2020-12-10T02:20:15.548Z"
+    },
+    {
+      "display_name": "falkjet",
+      "challenges_solved": "9",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-10T11:22:18.298Z"
     },
     {
       "display_name": "Krokofant",
@@ -1343,12 +1349,6 @@
       "challenges_solved": "8",
       "eggs_solved": "2",
       "last_solved": "2020-12-08T18:30:29.037Z"
-    },
-    {
-      "display_name": "falkjet",
-      "challenges_solved": "8",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-08T19:09:25.749Z"
     },
     {
       "display_name": "mstg",
