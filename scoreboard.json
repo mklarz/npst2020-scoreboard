@@ -175,6 +175,12 @@
       "last_solved": "2020-12-10T16:57:27.095Z"
     },
     {
+      "display_name": "⭐ Joey",
+      "challenges_solved": "10",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-10T17:00:15.503Z"
+    },
+    {
       "display_name": "marcelgs",
       "challenges_solved": "10",
       "eggs_solved": "6",
@@ -247,12 +253,6 @@
       "last_solved": "2020-12-10T16:20:02.986Z"
     },
     {
-      "display_name": "⭐ Joey",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T16:22:43.707Z"
-    },
-    {
       "display_name": "WastefulNick",
       "challenges_solved": "10",
       "eggs_solved": "6",
@@ -269,6 +269,18 @@
       "challenges_solved": "10",
       "eggs_solved": "6",
       "last_solved": "2020-12-10T16:42:28.957Z"
+    },
+    {
+      "display_name": "0x1",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T17:09:28.412Z"
+    },
+    {
+      "display_name": "Saev",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T17:10:38.724Z"
     },
     {
       "display_name": "Alias",
@@ -361,10 +373,10 @@
       "last_solved": "2020-12-10T16:37:00.652Z"
     },
     {
-      "display_name": "Saev",
+      "display_name": "badegakk",
       "challenges_solved": "10",
       "eggs_solved": "5",
-      "last_solved": "2020-12-10T16:57:02.062Z"
+      "last_solved": "2020-12-10T17:14:01.476Z"
     },
     {
       "display_name": "Zarux",
@@ -419,12 +431,6 @@
       "challenges_solved": "10",
       "eggs_solved": "2",
       "last_solved": "2020-12-10T15:56:41.943Z"
-    },
-    {
-      "display_name": "0x1",
-      "challenges_solved": "9",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-09T16:05:31.220Z"
     },
     {
       "display_name": "Kazhulu",
@@ -689,12 +695,6 @@
       "challenges_solved": "9",
       "eggs_solved": "5",
       "last_solved": "2020-12-09T22:36:37.786Z"
-    },
-    {
-      "display_name": "badegakk",
-      "challenges_solved": "9",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-09T22:41:30.205Z"
     },
     {
       "display_name": "Falkthorn",
@@ -2605,6 +2605,12 @@
       "last_solved": "2020-12-10T09:00:44.086Z"
     },
     {
+      "display_name": "betjent2303",
+      "challenges_solved": "5",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-10T17:06:07.232Z"
+    },
+    {
       "display_name": "Whiptail Wurm",
       "challenges_solved": "5",
       "eggs_solved": "0",
@@ -3065,12 +3071,6 @@
       "challenges_solved": "4",
       "eggs_solved": "1",
       "last_solved": "2020-12-10T14:14:39.446Z"
-    },
-    {
-      "display_name": "betjent2303",
-      "challenges_solved": "4",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-10T16:27:36.862Z"
     },
     {
       "display_name": "benedicte",
@@ -3629,6 +3629,12 @@
       "challenges_solved": "3",
       "eggs_solved": "1",
       "last_solved": "2020-12-10T15:32:13.370Z"
+    },
+    {
+      "display_name": "Please flush twice",
+      "challenges_solved": "3",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-10T17:08:46.389Z"
     },
     {
       "display_name": "aco",
@@ -4223,12 +4229,6 @@
       "challenges_solved": "3",
       "eggs_solved": "0",
       "last_solved": "2020-12-04T21:32:31.967Z"
-    },
-    {
-      "display_name": "Please flush twice",
-      "challenges_solved": "3",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-04T21:58:53.148Z"
     },
     {
       "display_name": "betjent2141",
