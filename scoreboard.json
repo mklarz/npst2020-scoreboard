@@ -349,6 +349,12 @@
       "last_solved": "2020-12-10T14:34:54.363Z"
     },
     {
+      "display_name": "waffle",
+      "challenges_solved": "10",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-10T15:47:40.962Z"
+    },
+    {
       "display_name": "Røllik Münch",
       "challenges_solved": "9",
       "eggs_solved": "6",
@@ -923,12 +929,6 @@
       "challenges_solved": "9",
       "eggs_solved": "2",
       "last_solved": "2020-12-09T08:29:13.823Z"
-    },
-    {
-      "display_name": "waffle",
-      "challenges_solved": "9",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-09T12:19:29.263Z"
     },
     {
       "display_name": "betjent2000",
@@ -4367,6 +4367,12 @@
       "challenges_solved": "3",
       "eggs_solved": "0",
       "last_solved": "2020-12-10T09:56:44.408Z"
+    },
+    {
+      "display_name": "lahell",
+      "challenges_solved": "3",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-10T15:49:40.521Z"
     },
     {
       "display_name": "betjent577",
