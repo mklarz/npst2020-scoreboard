@@ -181,7 +181,7 @@
       "last_solved": "2020-12-10T17:00:15.503Z"
     },
     {
-      "display_name": "Julenisen",
+      "display_name": "Juletissen",
       "challenges_solved": "10",
       "eggs_solved": "7",
       "last_solved": "2020-12-10T17:53:25.879Z"
@@ -295,6 +295,18 @@
       "last_solved": "2020-12-10T17:57:18.985Z"
     },
     {
+      "display_name": "fjellape",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T18:09:05.939Z"
+    },
+    {
+      "display_name": "smygulf",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T18:11:41.925Z"
+    },
+    {
       "display_name": "Alias",
       "challenges_solved": "10",
       "eggs_solved": "5",
@@ -379,12 +391,6 @@
       "last_solved": "2020-12-10T16:15:55.395Z"
     },
     {
-      "display_name": "fjellape",
-      "challenges_solved": "10",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-10T16:37:00.652Z"
-    },
-    {
       "display_name": "badegakk",
       "challenges_solved": "10",
       "eggs_solved": "5",
@@ -395,6 +401,12 @@
       "challenges_solved": "10",
       "eggs_solved": "5",
       "last_solved": "2020-12-10T17:32:57.774Z"
+    },
+    {
+      "display_name": "SignalNoise",
+      "challenges_solved": "10",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-10T18:09:26.997Z"
     },
     {
       "display_name": "Zarux",
@@ -467,12 +479,6 @@
       "challenges_solved": "9",
       "eggs_solved": "6",
       "last_solved": "2020-12-09T17:24:48.855Z"
-    },
-    {
-      "display_name": "smygulf",
-      "challenges_solved": "9",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-09T17:57:40.950Z"
     },
     {
       "display_name": "🦦lw",
@@ -721,12 +727,6 @@
       "last_solved": "2020-12-09T23:12:04.894Z"
     },
     {
-      "display_name": "SignalNoise",
-      "challenges_solved": "9",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-09T23:34:30.524Z"
-    },
-    {
       "display_name": "betjent769",
       "challenges_solved": "9",
       "eggs_solved": "5",
@@ -901,6 +901,12 @@
       "last_solved": "2020-12-10T17:37:20.000Z"
     },
     {
+      "display_name": "Bartimeus",
+      "challenges_solved": "9",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-10T18:14:17.225Z"
+    },
+    {
       "display_name": "Mr.Larsen",
       "challenges_solved": "9",
       "eggs_solved": "3",
@@ -931,12 +937,6 @@
       "last_solved": "2020-12-09T22:15:25.532Z"
     },
     {
-      "display_name": "Bartimeus",
-      "challenges_solved": "9",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-10T09:44:53.562Z"
-    },
-    {
       "display_name": "Tobias T.",
       "challenges_solved": "9",
       "eggs_solved": "3",
@@ -959,6 +959,12 @@
       "challenges_solved": "9",
       "eggs_solved": "3",
       "last_solved": "2020-12-10T16:11:04.065Z"
+    },
+    {
+      "display_name": "fredrik",
+      "challenges_solved": "9",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-10T18:07:54.743Z"
     },
     {
       "display_name": "betjent2000",
@@ -1253,12 +1259,6 @@
       "challenges_solved": "8",
       "eggs_solved": "3",
       "last_solved": "2020-12-08T11:01:24.075Z"
-    },
-    {
-      "display_name": "fredrik",
-      "challenges_solved": "8",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-08T11:11:21.001Z"
     },
     {
       "display_name": "Silverdream",
@@ -2023,6 +2023,12 @@
       "last_solved": "2020-12-10T10:19:46.072Z"
     },
     {
+      "display_name": "🐛🤷‍♂️ ruant",
+      "challenges_solved": "6",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-10T18:05:43.469Z"
+    },
+    {
       "display_name": "🎅",
       "challenges_solved": "6",
       "eggs_solved": "1",
@@ -2123,12 +2129,6 @@
       "challenges_solved": "6",
       "eggs_solved": "1",
       "last_solved": "2020-12-09T16:15:11.385Z"
-    },
-    {
-      "display_name": "🐛🤷‍♂️ ruant",
-      "challenges_solved": "6",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-09T23:08:32.448Z"
     },
     {
       "display_name": "ahazu",
