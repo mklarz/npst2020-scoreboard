@@ -949,10 +949,22 @@
       "last_solved": "2020-12-09T11:13:24.467Z"
     },
     {
+      "display_name": "yens",
+      "challenges_solved": "9",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-10T15:52:18.385Z"
+    },
+    {
       "display_name": "zaker",
       "challenges_solved": "9",
       "eggs_solved": "0",
       "last_solved": "2020-12-10T01:35:20.932Z"
+    },
+    {
+      "display_name": "lahell",
+      "challenges_solved": "9",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-10T15:52:52.922Z"
     },
     {
       "display_name": "DaddelFantomet",
@@ -1433,12 +1445,6 @@
       "challenges_solved": "8",
       "eggs_solved": "1",
       "last_solved": "2020-12-08T15:55:51.069Z"
-    },
-    {
-      "display_name": "yens",
-      "challenges_solved": "8",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-08T18:27:53.504Z"
     },
     {
       "display_name": "Carburetti",
@@ -4367,12 +4373,6 @@
       "challenges_solved": "3",
       "eggs_solved": "0",
       "last_solved": "2020-12-10T09:56:44.408Z"
-    },
-    {
-      "display_name": "lahell",
-      "challenges_solved": "3",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-10T15:49:40.521Z"
     },
     {
       "display_name": "betjent577",
