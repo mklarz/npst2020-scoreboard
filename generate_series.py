@@ -62,7 +62,7 @@ for index, scoreboard_user in enumerate(last_scoreboard[:LIMIT]):
     last_egg = scoreboard_user["eggs_solved"]
     base = {
         "name": "#{}. {} ({}🏆 - {}🥚)".format(index + 1, name, last_challenge, last_egg),
-        "step": "right",
+        "step": "left",
     } 
     series["challenges"].append({**base, **{
         "data": user["challenges"],
