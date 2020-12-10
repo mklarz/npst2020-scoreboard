@@ -55,6 +55,18 @@
       "last_solved": "2020-12-10T10:31:43.381Z"
     },
     {
+      "display_name": "Tivec",
+      "challenges_solved": "10",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-10T10:47:40.265Z"
+    },
+    {
+      "display_name": "bjornr",
+      "challenges_solved": "10",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-10T10:47:41.694Z"
+    },
+    {
       "display_name": "🎁 Bummie",
       "challenges_solved": "10",
       "eggs_solved": "6",
@@ -71,18 +83,6 @@
       "challenges_solved": "10",
       "eggs_solved": "6",
       "last_solved": "2020-12-10T08:14:26.854Z"
-    },
-    {
-      "display_name": "Tivec",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T08:14:40.500Z"
-    },
-    {
-      "display_name": "bjornr",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T08:25:05.510Z"
     },
     {
       "display_name": "Djolo",
@@ -195,8 +195,8 @@
     {
       "display_name": "Tjomi",
       "challenges_solved": "10",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T10:38:54.193Z"
+      "eggs_solved": "5",
+      "last_solved": "2020-12-10T10:45:18.823Z"
     },
     {
       "display_name": "🛷8-rocksteady",
@@ -209,6 +209,12 @@
       "challenges_solved": "10",
       "eggs_solved": "3",
       "last_solved": "2020-12-10T08:28:22.418Z"
+    },
+    {
+      "display_name": "Zarux",
+      "challenges_solved": "10",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-10T10:45:34.549Z"
     },
     {
       "display_name": "Røllik Münch",
@@ -827,12 +833,6 @@
       "challenges_solved": "9",
       "eggs_solved": "3",
       "last_solved": "2020-12-09T16:22:49.155Z"
-    },
-    {
-      "display_name": "Zarux",
-      "challenges_solved": "9",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-09T17:38:27.616Z"
     },
     {
       "display_name": "vepsen",
