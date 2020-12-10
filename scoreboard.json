@@ -259,6 +259,12 @@
       "last_solved": "2020-12-10T14:20:08.716Z"
     },
     {
+      "display_name": "brooks",
+      "challenges_solved": "10",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-10T14:33:15.229Z"
+    },
+    {
       "display_name": "Zarux",
       "challenges_solved": "10",
       "eggs_solved": "4",
@@ -277,12 +283,6 @@
       "last_solved": "2020-12-10T12:51:18.235Z"
     },
     {
-      "display_name": "brooks",
-      "challenges_solved": "10",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T14:27:37.460Z"
-    },
-    {
       "display_name": "🛷8-rocksteady",
       "challenges_solved": "10",
       "eggs_solved": "3",
@@ -293,6 +293,12 @@
       "challenges_solved": "10",
       "eggs_solved": "3",
       "last_solved": "2020-12-10T12:44:43.652Z"
+    },
+    {
+      "display_name": "SPST-agent",
+      "challenges_solved": "10",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-10T14:34:54.363Z"
     },
     {
       "display_name": "Røllik Münch",
@@ -715,6 +721,12 @@
       "last_solved": "2020-12-10T13:48:27.565Z"
     },
     {
+      "display_name": "betjent732",
+      "challenges_solved": "9",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-10T14:33:59.026Z"
+    },
+    {
       "display_name": "josteitv",
       "challenges_solved": "9",
       "eggs_solved": "4",
@@ -841,12 +853,6 @@
       "last_solved": "2020-12-10T11:40:33.006Z"
     },
     {
-      "display_name": "betjent732",
-      "challenges_solved": "9",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T12:57:43.176Z"
-    },
-    {
       "display_name": "Oisann",
       "challenges_solved": "9",
       "eggs_solved": "4",
@@ -875,12 +881,6 @@
       "challenges_solved": "9",
       "eggs_solved": "3",
       "last_solved": "2020-12-09T14:50:15.811Z"
-    },
-    {
-      "display_name": "SPST-agent",
-      "challenges_solved": "9",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-09T16:22:49.155Z"
     },
     {
       "display_name": "vepsen",
