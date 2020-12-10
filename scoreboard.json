@@ -199,6 +199,12 @@
       "last_solved": "2020-12-10T13:04:56.330Z"
     },
     {
+      "display_name": "Pzzaroo",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T13:15:16.604Z"
+    },
+    {
       "display_name": "Alias",
       "challenges_solved": "10",
       "eggs_solved": "5",
@@ -293,12 +299,6 @@
       "challenges_solved": "9",
       "eggs_solved": "6",
       "last_solved": "2020-12-09T16:05:31.220Z"
-    },
-    {
-      "display_name": "Pzzaroo",
-      "challenges_solved": "9",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-09T16:27:30.431Z"
     },
     {
       "display_name": "Kazhulu",
@@ -913,6 +913,12 @@
       "last_solved": "2020-12-10T11:22:18.298Z"
     },
     {
+      "display_name": "preliminary",
+      "challenges_solved": "9",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-10T13:15:59.442Z"
+    },
+    {
       "display_name": "Krokofant",
       "challenges_solved": "9",
       "eggs_solved": "1",
@@ -1385,12 +1391,6 @@
       "challenges_solved": "8",
       "eggs_solved": "2",
       "last_solved": "2020-12-09T18:57:33.946Z"
-    },
-    {
-      "display_name": "preliminary",
-      "challenges_solved": "8",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-09T20:14:16.296Z"
     },
     {
       "display_name": "Rullekake",
