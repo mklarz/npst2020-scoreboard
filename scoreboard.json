@@ -247,6 +247,12 @@
       "last_solved": "2020-12-10T08:28:22.418Z"
     },
     {
+      "display_name": "skyranger",
+      "challenges_solved": "10",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-10T12:44:43.652Z"
+    },
+    {
       "display_name": "Røllik Münch",
       "challenges_solved": "9",
       "eggs_solved": "6",
@@ -815,12 +821,6 @@
       "challenges_solved": "9",
       "eggs_solved": "4",
       "last_solved": "2020-12-10T11:40:33.006Z"
-    },
-    {
-      "display_name": "skyranger",
-      "challenges_solved": "9",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-09T09:15:47.292Z"
     },
     {
       "display_name": "Mr.Larsen",
@@ -8045,6 +8045,12 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-10T10:32:44.378Z"
+    },
+    {
+      "display_name": "Tannpirker",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-10T12:40:34.435Z"
     },
     {
       "display_name": "betjent2081",
