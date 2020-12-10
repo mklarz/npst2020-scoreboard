@@ -157,6 +157,12 @@
       "last_solved": "2020-12-10T14:55:14.734Z"
     },
     {
+      "display_name": "Cyberpowder",
+      "challenges_solved": "10",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-10T15:55:37.540Z"
+    },
+    {
       "display_name": "marcelgs",
       "challenges_solved": "10",
       "eggs_solved": "6",
@@ -209,12 +215,6 @@
       "challenges_solved": "10",
       "eggs_solved": "6",
       "last_solved": "2020-12-10T13:25:00.070Z"
-    },
-    {
-      "display_name": "Cyberpowder",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T14:57:02.312Z"
     },
     {
       "display_name": "Sithis",
@@ -353,6 +353,12 @@
       "challenges_solved": "10",
       "eggs_solved": "2",
       "last_solved": "2020-12-10T15:47:40.962Z"
+    },
+    {
+      "display_name": "BokMonster",
+      "challenges_solved": "10",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-10T15:56:41.943Z"
     },
     {
       "display_name": "Røllik Münch",
@@ -925,10 +931,10 @@
       "last_solved": "2020-12-10T14:22:58.482Z"
     },
     {
-      "display_name": "BokMonster",
+      "display_name": "lahell",
       "challenges_solved": "9",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-09T08:29:13.823Z"
+      "eggs_solved": "3",
+      "last_solved": "2020-12-10T15:59:21.895Z"
     },
     {
       "display_name": "betjent2000",
@@ -959,12 +965,6 @@
       "challenges_solved": "9",
       "eggs_solved": "0",
       "last_solved": "2020-12-10T01:35:20.932Z"
-    },
-    {
-      "display_name": "lahell",
-      "challenges_solved": "9",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-10T15:52:52.922Z"
     },
     {
       "display_name": "DaddelFantomet",
