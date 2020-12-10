@@ -313,6 +313,18 @@
       "last_solved": "2020-12-10T18:18:40.454Z"
     },
     {
+      "display_name": "SignalNoise",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T19:01:22.351Z"
+    },
+    {
+      "display_name": "🦦lw",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T19:06:16.303Z"
+    },
+    {
       "display_name": "Alias",
       "challenges_solved": "10",
       "eggs_solved": "5",
@@ -403,12 +415,6 @@
       "last_solved": "2020-12-10T17:32:57.774Z"
     },
     {
-      "display_name": "SignalNoise",
-      "challenges_solved": "10",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-10T18:09:26.997Z"
-    },
-    {
       "display_name": "Zarux",
       "challenges_solved": "10",
       "eggs_solved": "4",
@@ -445,6 +451,12 @@
       "last_solved": "2020-12-10T18:16:37.460Z"
     },
     {
+      "display_name": "Oldolo",
+      "challenges_solved": "10",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-10T19:06:05.303Z"
+    },
+    {
       "display_name": "🛷8-rocksteady",
       "challenges_solved": "10",
       "eggs_solved": "3",
@@ -455,6 +467,12 @@
       "challenges_solved": "10",
       "eggs_solved": "3",
       "last_solved": "2020-12-10T14:34:54.363Z"
+    },
+    {
+      "display_name": "Korvald",
+      "challenges_solved": "10",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-10T19:10:09.632Z"
     },
     {
       "display_name": "waffle",
@@ -485,12 +503,6 @@
       "challenges_solved": "9",
       "eggs_solved": "6",
       "last_solved": "2020-12-09T17:24:48.855Z"
-    },
-    {
-      "display_name": "🦦lw",
-      "challenges_solved": "9",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-09T18:28:18.214Z"
     },
     {
       "display_name": "psc007",
@@ -877,12 +889,6 @@
       "last_solved": "2020-12-10T11:16:06.939Z"
     },
     {
-      "display_name": "Oldolo",
-      "challenges_solved": "9",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T11:40:33.006Z"
-    },
-    {
       "display_name": "Oisann",
       "challenges_solved": "9",
       "eggs_solved": "4",
@@ -929,12 +935,6 @@
       "challenges_solved": "9",
       "eggs_solved": "3",
       "last_solved": "2020-12-09T14:35:26.981Z"
-    },
-    {
-      "display_name": "Korvald",
-      "challenges_solved": "9",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-09T14:50:15.811Z"
     },
     {
       "display_name": "vepsen",
@@ -2209,6 +2209,12 @@
       "last_solved": "2020-12-10T14:25:26.542Z"
     },
     {
+      "display_name": "betjent2215",
+      "challenges_solved": "5",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-10T19:01:00.869Z"
+    },
+    {
       "display_name": "Marius_Alv",
       "challenges_solved": "5",
       "eggs_solved": "2",
@@ -2335,10 +2341,10 @@
       "last_solved": "2020-12-09T19:17:26.274Z"
     },
     {
-      "display_name": "betjent2215",
+      "display_name": "Please flush twice",
       "challenges_solved": "5",
       "eggs_solved": "2",
-      "last_solved": "2020-12-10T18:15:06.654Z"
+      "last_solved": "2020-12-10T19:03:43.064Z"
     },
     {
       "display_name": "nc",
@@ -2765,12 +2771,6 @@
       "challenges_solved": "4",
       "eggs_solved": "2",
       "last_solved": "2020-12-07T19:12:12.518Z"
-    },
-    {
-      "display_name": "Please flush twice",
-      "challenges_solved": "4",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-10T18:56:35.717Z"
     },
     {
       "display_name": "betjent420",
