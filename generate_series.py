@@ -11,7 +11,7 @@ def format_item(timestamp, value):
 
 repo = Repo(".")
 master = repo.heads.main
-commits = list(repo.iter_commits(master))
+commits = list(repo.iter_commits(master))[::-1]
 
 last_scoreboard = None
 users = {}
