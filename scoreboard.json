@@ -163,6 +163,12 @@
       "last_solved": "2020-12-10T10:55:38.333Z"
     },
     {
+      "display_name": "jonas",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-10T11:02:20.806Z"
+    },
+    {
       "display_name": "Alias",
       "challenges_solved": "10",
       "eggs_solved": "5",
@@ -203,12 +209,6 @@
       "challenges_solved": "10",
       "eggs_solved": "5",
       "last_solved": "2020-12-10T10:45:18.823Z"
-    },
-    {
-      "display_name": "jonas",
-      "challenges_solved": "10",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-10T10:53:08.752Z"
     },
     {
       "display_name": "🛷8-rocksteady",
@@ -3043,6 +3043,12 @@
       "last_solved": "2020-12-10T07:45:41.049Z"
     },
     {
+      "display_name": "betjent2433",
+      "challenges_solved": "4",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-10T11:01:48.088Z"
+    },
+    {
       "display_name": "benedicte",
       "challenges_solved": "4",
       "eggs_solved": "0",
@@ -3209,12 +3215,6 @@
       "challenges_solved": "4",
       "eggs_solved": "0",
       "last_solved": "2020-12-10T09:33:10.279Z"
-    },
-    {
-      "display_name": "betjent2433",
-      "challenges_solved": "4",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-10T09:49:46.308Z"
     },
     {
       "display_name": "DåkkVeitKæmViE",
@@ -5273,6 +5273,12 @@
       "challenges_solved": "2",
       "eggs_solved": "0",
       "last_solved": "2020-12-10T09:38:32.219Z"
+    },
+    {
+      "display_name": "Kakemonster",
+      "challenges_solved": "2",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-10T11:00:53.619Z"
     },
     {
       "display_name": "Alv1",
@@ -8027,12 +8033,6 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-10T07:37:04.090Z"
-    },
-    {
-      "display_name": "Kakemonster",
-      "challenges_solved": "1",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-10T08:43:06.032Z"
     },
     {
       "display_name": "betjent2483",
