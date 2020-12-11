@@ -427,6 +427,12 @@
       "last_solved": "2020-12-11T11:53:10.972Z"
     },
     {
+      "display_name": "tomas",
+      "challenges_solved": "11",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-11T14:01:12.608Z"
+    },
+    {
       "display_name": "skyranger",
       "challenges_solved": "11",
       "eggs_solved": "4",
@@ -457,12 +463,6 @@
       "last_solved": "2020-12-11T11:05:39.971Z"
     },
     {
-      "display_name": "tomas",
-      "challenges_solved": "11",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-11T11:39:10.555Z"
-    },
-    {
       "display_name": "mockingjay",
       "challenges_solved": "11",
       "eggs_solved": "4",
@@ -479,6 +479,12 @@
       "challenges_solved": "11",
       "eggs_solved": "3",
       "last_solved": "2020-12-11T12:52:40.016Z"
+    },
+    {
+      "display_name": "muskedunder",
+      "challenges_solved": "11",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-11T14:02:00.872Z"
     },
     {
       "display_name": "BokMonster",
@@ -749,12 +755,6 @@
       "challenges_solved": "10",
       "eggs_solved": "3",
       "last_solved": "2020-12-10T14:34:54.363Z"
-    },
-    {
-      "display_name": "muskedunder",
-      "challenges_solved": "10",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-11T09:05:41.137Z"
     },
     {
       "display_name": "Mr.Larsen",
