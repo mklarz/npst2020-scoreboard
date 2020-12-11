@@ -325,6 +325,12 @@
       "last_solved": "2020-12-11T11:12:15.655Z"
     },
     {
+      "display_name": "enshar",
+      "challenges_solved": "11",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-11T11:44:33.077Z"
+    },
+    {
       "display_name": "StoreStian",
       "challenges_solved": "11",
       "eggs_solved": "5",
@@ -587,12 +593,6 @@
       "challenges_solved": "10",
       "eggs_solved": "6",
       "last_solved": "2020-12-11T10:07:39.565Z"
-    },
-    {
-      "display_name": "enshar",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-11T10:17:06.641Z"
     },
     {
       "display_name": "fredrik",
