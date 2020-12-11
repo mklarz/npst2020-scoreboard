@@ -823,6 +823,12 @@
       "last_solved": "2020-12-11T17:24:46.155Z"
     },
     {
+      "display_name": "Franzefrekk",
+      "challenges_solved": "10",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T18:22:12.106Z"
+    },
+    {
       "display_name": "SPST-agent",
       "challenges_solved": "10",
       "eggs_solved": "3",
@@ -1073,12 +1079,6 @@
       "challenges_solved": "9",
       "eggs_solved": "4",
       "last_solved": "2020-12-10T21:50:53.153Z"
-    },
-    {
-      "display_name": "Franzefrekk",
-      "challenges_solved": "9",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T22:06:51.924Z"
     },
     {
       "display_name": "zigkill",
