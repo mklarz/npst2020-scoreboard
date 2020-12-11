@@ -265,6 +265,12 @@
       "last_solved": "2020-12-11T09:49:36.793Z"
     },
     {
+      "display_name": "zup",
+      "challenges_solved": "11",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-11T09:53:26.618Z"
+    },
+    {
       "display_name": "StoreStian",
       "challenges_solved": "11",
       "eggs_solved": "5",
@@ -491,12 +497,6 @@
       "challenges_solved": "10",
       "eggs_solved": "6",
       "last_solved": "2020-12-10T23:06:15.657Z"
-    },
-    {
-      "display_name": "zup",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T23:40:15.436Z"
     },
     {
       "display_name": "MrT",
