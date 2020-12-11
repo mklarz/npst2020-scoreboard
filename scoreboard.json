@@ -439,6 +439,12 @@
       "last_solved": "2020-12-11T11:39:10.555Z"
     },
     {
+      "display_name": "mockingjay",
+      "challenges_solved": "11",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T13:04:14.660Z"
+    },
+    {
       "display_name": "vebxor",
       "challenges_solved": "11",
       "eggs_solved": "3",
@@ -707,12 +713,6 @@
       "challenges_solved": "10",
       "eggs_solved": "4",
       "last_solved": "2020-12-10T21:49:49.972Z"
-    },
-    {
-      "display_name": "mockingjay",
-      "challenges_solved": "10",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-11T08:54:41.090Z"
     },
     {
       "display_name": "🐐NorskFjellGeit🐐",
