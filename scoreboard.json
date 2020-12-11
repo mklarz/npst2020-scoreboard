@@ -775,6 +775,12 @@
       "last_solved": "2020-12-11T14:45:46.120Z"
     },
     {
+      "display_name": "gen",
+      "challenges_solved": "10",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T15:12:54.470Z"
+    },
+    {
       "display_name": "SPST-agent",
       "challenges_solved": "10",
       "eggs_solved": "3",
@@ -995,12 +1001,6 @@
       "challenges_solved": "9",
       "eggs_solved": "4",
       "last_solved": "2020-12-09T14:33:05.151Z"
-    },
-    {
-      "display_name": "gen",
-      "challenges_solved": "9",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-09T15:20:33.653Z"
     },
     {
       "display_name": "petter2",
