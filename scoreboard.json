@@ -337,6 +337,12 @@
       "last_solved": "2020-12-11T11:44:33.077Z"
     },
     {
+      "display_name": "iLoop",
+      "challenges_solved": "11",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-11T12:33:20.908Z"
+    },
+    {
       "display_name": "StoreStian",
       "challenges_solved": "11",
       "eggs_solved": "5",
@@ -545,12 +551,6 @@
       "challenges_solved": "10",
       "eggs_solved": "6",
       "last_solved": "2020-12-10T21:34:01.965Z"
-    },
-    {
-      "display_name": "iLoop",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T21:47:46.271Z"
     },
     {
       "display_name": "Alias",
