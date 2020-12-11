@@ -391,6 +391,12 @@
       "last_solved": "2020-12-11T11:05:39.971Z"
     },
     {
+      "display_name": "tomas",
+      "challenges_solved": "11",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T11:39:10.555Z"
+    },
+    {
       "display_name": "vebxor",
       "challenges_solved": "11",
       "eggs_solved": "3",
@@ -677,12 +683,6 @@
       "challenges_solved": "10",
       "eggs_solved": "4",
       "last_solved": "2020-12-10T21:49:49.972Z"
-    },
-    {
-      "display_name": "tomas",
-      "challenges_solved": "10",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T22:30:52.329Z"
     },
     {
       "display_name": "mockingjay",
