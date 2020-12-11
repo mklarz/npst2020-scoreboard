@@ -733,6 +733,12 @@
       "last_solved": "2020-12-11T12:49:23.656Z"
     },
     {
+      "display_name": "ocen",
+      "challenges_solved": "10",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T13:10:26.891Z"
+    },
+    {
       "display_name": "SPST-agent",
       "challenges_solved": "10",
       "eggs_solved": "3",
@@ -965,12 +971,6 @@
       "challenges_solved": "9",
       "eggs_solved": "4",
       "last_solved": "2020-12-09T07:13:09.478Z"
-    },
-    {
-      "display_name": "ocen",
-      "challenges_solved": "9",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-09T09:19:28.510Z"
     },
     {
       "display_name": "PolitimeisterBastian",
