@@ -799,6 +799,12 @@
       "last_solved": "2020-12-11T15:50:49.384Z"
     },
     {
+      "display_name": "UnEthicalNgo",
+      "challenges_solved": "10",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T16:32:51.337Z"
+    },
+    {
       "display_name": "SPST-agent",
       "challenges_solved": "10",
       "eggs_solved": "3",
@@ -1043,12 +1049,6 @@
       "challenges_solved": "9",
       "eggs_solved": "4",
       "last_solved": "2020-12-10T18:19:58.518Z"
-    },
-    {
-      "display_name": "UnEthicalNgo",
-      "challenges_solved": "9",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T19:25:39.759Z"
     },
     {
       "display_name": "Sharebear",
