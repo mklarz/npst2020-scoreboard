@@ -49,6 +49,12 @@
       "last_solved": "2020-12-11T06:58:33.053Z"
     },
     {
+      "display_name": "StateOfLimbo",
+      "challenges_solved": "11",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-11T07:05:02.072Z"
+    },
+    {
       "display_name": "clorin",
       "challenges_solved": "11",
       "eggs_solved": "6",
@@ -65,6 +71,18 @@
       "challenges_solved": "11",
       "eggs_solved": "6",
       "last_solved": "2020-12-11T06:48:25.590Z"
+    },
+    {
+      "display_name": "Goldwave",
+      "challenges_solved": "11",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-11T07:09:01.825Z"
+    },
+    {
+      "display_name": "skyranger",
+      "challenges_solved": "11",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T07:04:55.040Z"
     },
     {
       "display_name": "BokMonster",
@@ -101,12 +119,6 @@
       "challenges_solved": "10",
       "eggs_solved": "7",
       "last_solved": "2020-12-10T09:54:27.537Z"
-    },
-    {
-      "display_name": "StateOfLimbo",
-      "challenges_solved": "10",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-10T10:07:06.534Z"
     },
     {
       "display_name": "kek🍔",
@@ -293,12 +305,6 @@
       "challenges_solved": "10",
       "eggs_solved": "6",
       "last_solved": "2020-12-10T15:28:25.061Z"
-    },
-    {
-      "display_name": "Goldwave",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T16:19:16.419Z"
     },
     {
       "display_name": "Fr3Dr1K",
@@ -557,12 +563,6 @@
       "challenges_solved": "10",
       "eggs_solved": "4",
       "last_solved": "2020-12-10T12:51:18.235Z"
-    },
-    {
-      "display_name": "skyranger",
-      "challenges_solved": "10",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T17:46:51.657Z"
     },
     {
       "display_name": "naffis",
@@ -1105,6 +1105,12 @@
       "last_solved": "2020-12-10T20:54:54.840Z"
     },
     {
+      "display_name": "NissePappa",
+      "challenges_solved": "9",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-11T07:07:22.449Z"
+    },
+    {
       "display_name": "zaker",
       "challenges_solved": "9",
       "eggs_solved": "0",
@@ -1481,12 +1487,6 @@
       "challenges_solved": "8",
       "eggs_solved": "1",
       "last_solved": "2020-12-08T15:55:51.069Z"
-    },
-    {
-      "display_name": "NissePappa",
-      "challenges_solved": "8",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-09T09:39:06.227Z"
     },
     {
       "display_name": "runasand",
@@ -2359,6 +2359,12 @@
       "last_solved": "2020-12-09T19:17:26.274Z"
     },
     {
+      "display_name": "Tverfyll",
+      "challenges_solved": "5",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-11T07:13:25.105Z"
+    },
+    {
       "display_name": "nc",
       "challenges_solved": "5",
       "eggs_solved": "1",
@@ -2639,12 +2645,6 @@
       "challenges_solved": "5",
       "eggs_solved": "1",
       "last_solved": "2020-12-10T17:06:07.232Z"
-    },
-    {
-      "display_name": "Tverfyll",
-      "challenges_solved": "5",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-11T06:36:20.610Z"
     },
     {
       "display_name": "Whiptail Wurm",
