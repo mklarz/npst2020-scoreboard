@@ -847,6 +847,12 @@
       "last_solved": "2020-12-11T17:24:46.155Z"
     },
     {
+      "display_name": "alias",
+      "challenges_solved": "10",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T19:37:52.698Z"
+    },
+    {
       "display_name": "SPST-agent",
       "challenges_solved": "10",
       "eggs_solved": "3",
@@ -1049,12 +1055,6 @@
       "challenges_solved": "9",
       "eggs_solved": "4",
       "last_solved": "2020-12-09T16:27:24.616Z"
-    },
-    {
-      "display_name": "alias",
-      "challenges_solved": "9",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-09T18:37:26.924Z"
     },
     {
       "display_name": "Oisann",
