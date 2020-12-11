@@ -715,6 +715,12 @@
       "last_solved": "2020-12-11T19:34:33.490Z"
     },
     {
+      "display_name": "alias",
+      "challenges_solved": "10",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-11T20:50:24.368Z"
+    },
+    {
       "display_name": "oja",
       "challenges_solved": "10",
       "eggs_solved": "5",
@@ -809,12 +815,6 @@
       "challenges_solved": "10",
       "eggs_solved": "5",
       "last_solved": "2020-12-11T20:25:12.448Z"
-    },
-    {
-      "display_name": "alias",
-      "challenges_solved": "10",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-11T20:49:44.994Z"
     },
     {
       "display_name": "naffis",
