@@ -289,6 +289,12 @@
       "last_solved": "2020-12-11T08:45:50.779Z"
     },
     {
+      "display_name": "Korvald",
+      "challenges_solved": "11",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T09:44:07.746Z"
+    },
+    {
       "display_name": "BokMonster",
       "challenges_solved": "11",
       "eggs_solved": "2",
@@ -635,12 +641,6 @@
       "challenges_solved": "10",
       "eggs_solved": "4",
       "last_solved": "2020-12-10T22:30:52.329Z"
-    },
-    {
-      "display_name": "Korvald",
-      "challenges_solved": "10",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T22:36:31.618Z"
     },
     {
       "display_name": "mockingjay",
@@ -3277,6 +3277,12 @@
       "last_solved": "2020-12-11T09:41:14.180Z"
     },
     {
+      "display_name": "betjent2495",
+      "challenges_solved": "4",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-11T09:44:42.010Z"
+    },
+    {
       "display_name": "Eljardo",
       "challenges_solved": "3",
       "eggs_solved": "2",
@@ -4391,12 +4397,6 @@
       "challenges_solved": "3",
       "eggs_solved": "0",
       "last_solved": "2020-12-10T17:38:26.095Z"
-    },
-    {
-      "display_name": "betjent2495",
-      "challenges_solved": "3",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-10T21:22:53.166Z"
     },
     {
       "display_name": "420BlazeIt",
