@@ -145,6 +145,24 @@
       "last_solved": "2020-12-11T08:42:23.877Z"
     },
     {
+      "display_name": "zyp",
+      "challenges_solved": "11",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-11T08:48:36.642Z"
+    },
+    {
+      "display_name": "Saev",
+      "challenges_solved": "11",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-11T08:55:25.086Z"
+    },
+    {
+      "display_name": "✅ waperon",
+      "challenges_solved": "11",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-11T08:59:56.514Z"
+    },
+    {
       "display_name": "clorin",
       "challenges_solved": "11",
       "eggs_solved": "6",
@@ -211,6 +229,12 @@
       "last_solved": "2020-12-11T07:56:31.881Z"
     },
     {
+      "display_name": "Zarux",
+      "challenges_solved": "11",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T08:45:50.779Z"
+    },
+    {
       "display_name": "BokMonster",
       "challenges_solved": "11",
       "eggs_solved": "2",
@@ -227,12 +251,6 @@
       "challenges_solved": "10",
       "eggs_solved": "7",
       "last_solved": "2020-12-10T09:53:39.505Z"
-    },
-    {
-      "display_name": "zyp",
-      "challenges_solved": "10",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-10T09:54:27.537Z"
     },
     {
       "display_name": "bashgobrr",
@@ -289,12 +307,6 @@
       "last_solved": "2020-12-10T17:53:25.879Z"
     },
     {
-      "display_name": "Saev",
-      "challenges_solved": "10",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-10T18:27:52.495Z"
-    },
-    {
       "display_name": "S Claus",
       "challenges_solved": "10",
       "eggs_solved": "7",
@@ -311,12 +323,6 @@
       "challenges_solved": "10",
       "eggs_solved": "7",
       "last_solved": "2020-12-10T23:17:59.062Z"
-    },
-    {
-      "display_name": "✅ waperon",
-      "challenges_solved": "10",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-11T07:33:19.877Z"
     },
     {
       "display_name": "marcelgs",
@@ -595,12 +601,6 @@
       "last_solved": "2020-12-11T07:22:19.583Z"
     },
     {
-      "display_name": "Zarux",
-      "challenges_solved": "10",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T11:29:36.948Z"
-    },
-    {
       "display_name": "naffis",
       "challenges_solved": "10",
       "eggs_solved": "4",
@@ -629,6 +629,12 @@
       "challenges_solved": "10",
       "eggs_solved": "4",
       "last_solved": "2020-12-10T22:36:31.618Z"
+    },
+    {
+      "display_name": "mockingjay",
+      "challenges_solved": "10",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T08:54:41.090Z"
     },
     {
       "display_name": "SPST-agent",
@@ -995,12 +1001,6 @@
       "challenges_solved": "9",
       "eggs_solved": "4",
       "last_solved": "2020-12-10T22:06:51.924Z"
-    },
-    {
-      "display_name": "mockingjay",
-      "challenges_solved": "9",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T22:37:34.388Z"
     },
     {
       "display_name": "zigkill",
