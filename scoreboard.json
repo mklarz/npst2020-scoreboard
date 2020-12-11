@@ -1123,6 +1123,12 @@
       "last_solved": "2020-12-11T21:35:18.056Z"
     },
     {
+      "display_name": "koverskeid",
+      "challenges_solved": "9",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T22:46:30.945Z"
+    },
+    {
       "display_name": "ambientsound",
       "challenges_solved": "9",
       "eggs_solved": "3",
@@ -1373,12 +1379,6 @@
       "challenges_solved": "8",
       "eggs_solved": "4",
       "last_solved": "2020-12-11T22:22:52.408Z"
-    },
-    {
-      "display_name": "koverskeid",
-      "challenges_solved": "8",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-11T22:44:22.029Z"
     },
     {
       "display_name": "losol",
