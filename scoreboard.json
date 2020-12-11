@@ -1105,6 +1105,12 @@
       "last_solved": "2020-12-11T19:35:18.755Z"
     },
     {
+      "display_name": "op",
+      "challenges_solved": "9",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T20:20:35.327Z"
+    },
+    {
       "display_name": "ambientsound",
       "challenges_solved": "9",
       "eggs_solved": "3",
@@ -1289,12 +1295,6 @@
       "challenges_solved": "8",
       "eggs_solved": "4",
       "last_solved": "2020-12-08T16:16:05.304Z"
-    },
-    {
-      "display_name": "op",
-      "challenges_solved": "8",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-08T17:01:29.666Z"
     },
     {
       "display_name": "nødkodelauget",
