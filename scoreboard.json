@@ -721,6 +721,12 @@
       "last_solved": "2020-12-11T09:52:08.192Z"
     },
     {
+      "display_name": "Påskekylling",
+      "challenges_solved": "10",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T12:49:23.656Z"
+    },
+    {
       "display_name": "SPST-agent",
       "challenges_solved": "10",
       "eggs_solved": "3",
@@ -1073,12 +1079,6 @@
       "challenges_solved": "9",
       "eggs_solved": "4",
       "last_solved": "2020-12-10T23:17:37.006Z"
-    },
-    {
-      "display_name": "Påskekylling",
-      "challenges_solved": "9",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T23:26:42.985Z"
     },
     {
       "display_name": "hanspf",
