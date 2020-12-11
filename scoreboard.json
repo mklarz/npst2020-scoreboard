@@ -451,6 +451,12 @@
       "last_solved": "2020-12-11T20:47:46.115Z"
     },
     {
+      "display_name": "alias",
+      "challenges_solved": "11",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-11T21:07:23.885Z"
+    },
+    {
       "display_name": "StoreStian",
       "challenges_solved": "11",
       "eggs_solved": "5",
@@ -721,12 +727,6 @@
       "last_solved": "2020-12-11T19:34:33.490Z"
     },
     {
-      "display_name": "alias",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-11T20:50:24.368Z"
-    },
-    {
       "display_name": "oja",
       "challenges_solved": "10",
       "eggs_solved": "5",
@@ -875,6 +875,12 @@
       "challenges_solved": "10",
       "eggs_solved": "4",
       "last_solved": "2020-12-11T17:24:46.155Z"
+    },
+    {
+      "display_name": "zigkill",
+      "challenges_solved": "10",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T21:07:26.607Z"
     },
     {
       "display_name": "Mr.Larsen",
@@ -1079,12 +1085,6 @@
       "challenges_solved": "9",
       "eggs_solved": "4",
       "last_solved": "2020-12-10T21:50:53.153Z"
-    },
-    {
-      "display_name": "zigkill",
-      "challenges_solved": "9",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T23:02:18.869Z"
     },
     {
       "display_name": "god_gutten",
