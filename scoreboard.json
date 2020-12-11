@@ -739,6 +739,12 @@
       "last_solved": "2020-12-11T13:10:26.891Z"
     },
     {
+      "display_name": "akberg",
+      "challenges_solved": "10",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T13:32:14.953Z"
+    },
+    {
       "display_name": "SPST-agent",
       "challenges_solved": "10",
       "eggs_solved": "3",
@@ -1019,12 +1025,6 @@
       "challenges_solved": "9",
       "eggs_solved": "4",
       "last_solved": "2020-12-10T13:48:17.958Z"
-    },
-    {
-      "display_name": "akberg",
-      "challenges_solved": "9",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T16:47:56.114Z"
     },
     {
       "display_name": "s1dda",
