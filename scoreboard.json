@@ -577,6 +577,12 @@
       "last_solved": "2020-12-10T22:36:31.618Z"
     },
     {
+      "display_name": "danieman",
+      "challenges_solved": "10",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-11T01:37:18.538Z"
+    },
+    {
       "display_name": "SPST-agent",
       "challenges_solved": "10",
       "eggs_solved": "3",
@@ -1271,12 +1277,6 @@
       "challenges_solved": "8",
       "eggs_solved": "4",
       "last_solved": "2020-12-09T23:36:15.248Z"
-    },
-    {
-      "display_name": "danieman",
-      "challenges_solved": "8",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T23:01:12.900Z"
     },
     {
       "display_name": "PrivacyEsc",
