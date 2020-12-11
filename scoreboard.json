@@ -733,6 +733,12 @@
       "last_solved": "2020-12-11T11:55:05.553Z"
     },
     {
+      "display_name": "preliminary",
+      "challenges_solved": "10",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-11T11:57:49.160Z"
+    },
+    {
       "display_name": "waffle",
       "challenges_solved": "10",
       "eggs_solved": "2",
@@ -1085,12 +1091,6 @@
       "challenges_solved": "9",
       "eggs_solved": "3",
       "last_solved": "2020-12-10T10:32:28.106Z"
-    },
-    {
-      "display_name": "preliminary",
-      "challenges_solved": "9",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-10T14:22:58.482Z"
     },
     {
       "display_name": "lahell",
