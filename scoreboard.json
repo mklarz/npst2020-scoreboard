@@ -1063,6 +1063,12 @@
       "last_solved": "2020-12-10T23:20:39.283Z"
     },
     {
+      "display_name": "NordTorsken",
+      "challenges_solved": "9",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-11T00:43:55.992Z"
+    },
+    {
       "display_name": "falkjet",
       "challenges_solved": "9",
       "eggs_solved": "2",
@@ -1325,12 +1331,6 @@
       "challenges_solved": "8",
       "eggs_solved": "3",
       "last_solved": "2020-12-08T21:28:32.908Z"
-    },
-    {
-      "display_name": "NordTorsken",
-      "challenges_solved": "8",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-08T22:30:11.245Z"
     },
     {
       "display_name": "TSTAgent",
