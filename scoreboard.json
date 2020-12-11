@@ -1153,6 +1153,12 @@
       "last_solved": "2020-12-11T15:15:05.459Z"
     },
     {
+      "display_name": "Elf-O",
+      "challenges_solved": "9",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-11T15:59:07.555Z"
+    },
+    {
       "display_name": "yens",
       "challenges_solved": "9",
       "eggs_solved": "1",
@@ -1457,12 +1463,6 @@
       "challenges_solved": "8",
       "eggs_solved": "2",
       "last_solved": "2020-12-08T19:28:57.045Z"
-    },
-    {
-      "display_name": "Elf-O",
-      "challenges_solved": "8",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-08T19:39:23.910Z"
     },
     {
       "display_name": "elgen",
