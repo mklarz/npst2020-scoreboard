@@ -229,6 +229,12 @@
       "last_solved": "2020-12-12T22:38:38.728Z"
     },
     {
+      "display_name": "SignalNoise",
+      "challenges_solved": "12",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-12T23:13:25.131Z"
+    },
+    {
       "display_name": "Zarux",
       "challenges_solved": "12",
       "eggs_solved": "5",
@@ -443,12 +449,6 @@
       "challenges_solved": "11",
       "eggs_solved": "6",
       "last_solved": "2020-12-11T10:30:56.685Z"
-    },
-    {
-      "display_name": "SignalNoise",
-      "challenges_solved": "11",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-11T10:31:22.290Z"
     },
     {
       "display_name": "Fireholt",
