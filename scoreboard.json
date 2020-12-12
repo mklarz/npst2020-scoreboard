@@ -1171,6 +1171,12 @@
       "last_solved": "2020-12-12T11:05:45.393Z"
     },
     {
+      "display_name": "nødkodelauget",
+      "challenges_solved": "9",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-12T11:35:48.966Z"
+    },
+    {
       "display_name": "ambientsound",
       "challenges_solved": "9",
       "eggs_solved": "3",
@@ -1343,12 +1349,6 @@
       "challenges_solved": "8",
       "eggs_solved": "4",
       "last_solved": "2020-12-08T16:16:05.304Z"
-    },
-    {
-      "display_name": "nødkodelauget",
-      "challenges_solved": "8",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-08T19:15:05.117Z"
     },
     {
       "display_name": "91Stomperud",
@@ -5359,6 +5359,12 @@
       "last_solved": "2020-12-11T19:31:00.773Z"
     },
     {
+      "display_name": "betjent1159",
+      "challenges_solved": "2",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-12T11:35:02.506Z"
+    },
+    {
       "display_name": "Alv1",
       "challenges_solved": "1",
       "eggs_solved": "1",
@@ -6779,12 +6785,6 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-02T06:59:15.252Z"
-    },
-    {
-      "display_name": "betjent1159",
-      "challenges_solved": "1",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-02T07:14:31.737Z"
     },
     {
       "display_name": "vladau",
