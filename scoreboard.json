@@ -43,6 +43,12 @@
       "last_solved": "2020-12-12T18:38:03.612Z"
     },
     {
+      "display_name": "alias",
+      "challenges_solved": "12",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-12T19:50:29.479Z"
+    },
+    {
       "display_name": "WastefulNick",
       "challenges_solved": "12",
       "eggs_solved": "7",
@@ -89,12 +95,6 @@
       "challenges_solved": "12",
       "eggs_solved": "7",
       "last_solved": "2020-12-12T14:46:09.522Z"
-    },
-    {
-      "display_name": "alias",
-      "challenges_solved": "12",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-12T15:15:51.165Z"
     },
     {
       "display_name": "bjne",
