@@ -2419,6 +2419,12 @@
       "last_solved": "2020-12-09T19:17:26.274Z"
     },
     {
+      "display_name": "XSS-mas",
+      "challenges_solved": "5",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-12T11:21:32.126Z"
+    },
+    {
       "display_name": "nc",
       "challenges_solved": "5",
       "eggs_solved": "1",
@@ -2489,12 +2495,6 @@
       "challenges_solved": "5",
       "eggs_solved": "1",
       "last_solved": "2020-12-06T00:45:56.994Z"
-    },
-    {
-      "display_name": "XSS-mas",
-      "challenges_solved": "5",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-06T12:41:33.861Z"
     },
     {
       "display_name": "mitball",
