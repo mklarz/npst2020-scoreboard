@@ -145,6 +145,12 @@
       "last_solved": "2020-12-12T16:27:27.636Z"
     },
     {
+      "display_name": "Rånstad",
+      "challenges_solved": "12",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-12T17:01:05.880Z"
+    },
+    {
       "display_name": "Zarux",
       "challenges_solved": "12",
       "eggs_solved": "5",
@@ -473,12 +479,6 @@
       "challenges_solved": "11",
       "eggs_solved": "6",
       "last_solved": "2020-12-11T20:47:24.689Z"
-    },
-    {
-      "display_name": "Rånstad",
-      "challenges_solved": "11",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-11T20:47:46.115Z"
     },
     {
       "display_name": "Betjent2002",
@@ -1855,6 +1855,12 @@
       "last_solved": "2020-12-11T22:49:04.974Z"
     },
     {
+      "display_name": "Xenotype",
+      "challenges_solved": "7",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-12T17:01:38.481Z"
+    },
+    {
       "display_name": "betjent2018",
       "challenges_solved": "7",
       "eggs_solved": "1",
@@ -1913,12 +1919,6 @@
       "challenges_solved": "7",
       "eggs_solved": "1",
       "last_solved": "2020-12-11T08:34:11.547Z"
-    },
-    {
-      "display_name": "Xenotype",
-      "challenges_solved": "7",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-11T10:15:06.775Z"
     },
     {
       "display_name": "jui",
