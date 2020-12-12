@@ -67,6 +67,12 @@
       "last_solved": "2020-12-12T13:02:13.760Z"
     },
     {
+      "display_name": "Arkanor",
+      "challenges_solved": "12",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-12T13:40:40.204Z"
+    },
+    {
       "display_name": "fjellape",
       "challenges_solved": "12",
       "eggs_solved": "6",
@@ -209,12 +215,6 @@
       "challenges_solved": "11",
       "eggs_solved": "7",
       "last_solved": "2020-12-11T08:59:56.514Z"
-    },
-    {
-      "display_name": "Arkanor",
-      "challenges_solved": "11",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-11T09:03:59.588Z"
     },
     {
       "display_name": "bitBug",
