@@ -973,6 +973,12 @@
       "last_solved": "2020-12-12T19:52:24.620Z"
     },
     {
+      "display_name": "Oda",
+      "challenges_solved": "10",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-12T19:55:27.886Z"
+    },
+    {
       "display_name": "waffle",
       "challenges_solved": "10",
       "eggs_solved": "2",
@@ -1199,12 +1205,6 @@
       "challenges_solved": "9",
       "eggs_solved": "3",
       "last_solved": "2020-12-10T10:32:28.106Z"
-    },
-    {
-      "display_name": "Oda",
-      "challenges_solved": "9",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-11T12:22:52.388Z"
     },
     {
       "display_name": "Pone",
