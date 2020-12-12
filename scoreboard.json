@@ -175,6 +175,12 @@
       "last_solved": "2020-12-12T20:44:59.563Z"
     },
     {
+      "display_name": "0x1",
+      "challenges_solved": "12",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-12T20:47:56.899Z"
+    },
+    {
       "display_name": "TorErik",
       "challenges_solved": "12",
       "eggs_solved": "6",
@@ -245,12 +251,6 @@
       "challenges_solved": "11",
       "eggs_solved": "7",
       "last_solved": "2020-12-11T08:19:59.673Z"
-    },
-    {
-      "display_name": "0x1",
-      "challenges_solved": "11",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-11T08:21:16.877Z"
     },
     {
       "display_name": "zyp",
