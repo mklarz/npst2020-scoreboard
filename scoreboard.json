@@ -169,6 +169,12 @@
       "last_solved": "2020-12-12T11:00:19.628Z"
     },
     {
+      "display_name": "m",
+      "challenges_solved": "12",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-12T18:52:48.436Z"
+    },
+    {
       "display_name": "bjornr",
       "challenges_solved": "11",
       "eggs_solved": "7",
@@ -623,12 +629,6 @@
       "challenges_solved": "11",
       "eggs_solved": "4",
       "last_solved": "2020-12-11T07:04:55.040Z"
-    },
-    {
-      "display_name": "m",
-      "challenges_solved": "11",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-11T07:56:31.881Z"
     },
     {
       "display_name": "T-StoneLeif",
