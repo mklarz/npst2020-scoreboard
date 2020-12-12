@@ -5377,6 +5377,12 @@
       "last_solved": "2020-12-12T12:03:13.059Z"
     },
     {
+      "display_name": "betjent",
+      "challenges_solved": "2",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-12T16:10:14.971Z"
+    },
+    {
       "display_name": "Alv1",
       "challenges_solved": "1",
       "eggs_solved": "1",
@@ -6467,12 +6473,6 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-01T18:10:16.369Z"
-    },
-    {
-      "display_name": "betjent",
-      "challenges_solved": "1",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-01T18:17:18.021Z"
     },
     {
       "display_name": "suliskongen",
