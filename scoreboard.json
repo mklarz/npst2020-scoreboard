@@ -163,6 +163,18 @@
       "last_solved": "2020-12-12T20:12:24.061Z"
     },
     {
+      "display_name": "wat",
+      "challenges_solved": "12",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-12T20:44:03.549Z"
+    },
+    {
+      "display_name": "Røllik Münch",
+      "challenges_solved": "12",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-12T20:44:59.563Z"
+    },
+    {
       "display_name": "TorErik",
       "challenges_solved": "12",
       "eggs_solved": "6",
@@ -211,12 +223,6 @@
       "last_solved": "2020-12-11T06:13:18.329Z"
     },
     {
-      "display_name": "wat",
-      "challenges_solved": "11",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-11T06:56:29.274Z"
-    },
-    {
       "display_name": "supergrecko",
       "challenges_solved": "11",
       "eggs_solved": "7",
@@ -233,12 +239,6 @@
       "challenges_solved": "11",
       "eggs_solved": "7",
       "last_solved": "2020-12-11T07:29:07.091Z"
-    },
-    {
-      "display_name": "Røllik Münch",
-      "challenges_solved": "11",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-11T07:39:20.822Z"
     },
     {
       "display_name": "jonas",
