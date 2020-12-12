@@ -175,6 +175,12 @@
       "last_solved": "2020-12-12T17:01:05.880Z"
     },
     {
+      "display_name": "chronos",
+      "challenges_solved": "12",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-12T20:36:47.815Z"
+    },
+    {
       "display_name": "Zarux",
       "challenges_solved": "12",
       "eggs_solved": "5",
@@ -449,12 +455,6 @@
       "challenges_solved": "11",
       "eggs_solved": "6",
       "last_solved": "2020-12-11T15:56:36.308Z"
-    },
-    {
-      "display_name": "chronos",
-      "challenges_solved": "11",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-11T16:07:47.745Z"
     },
     {
       "display_name": "Alias",
@@ -2707,6 +2707,12 @@
       "last_solved": "2020-12-12T14:43:08.530Z"
     },
     {
+      "display_name": "bugge",
+      "challenges_solved": "5",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-12T20:36:12.813Z"
+    },
+    {
       "display_name": "Whiptail Wurm",
       "challenges_solved": "5",
       "eggs_solved": "0",
@@ -3113,12 +3119,6 @@
       "challenges_solved": "4",
       "eggs_solved": "1",
       "last_solved": "2020-12-09T20:14:46.862Z"
-    },
-    {
-      "display_name": "bugge",
-      "challenges_solved": "4",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-09T22:04:32.740Z"
     },
     {
       "display_name": "AgentHi8",
