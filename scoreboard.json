@@ -229,6 +229,12 @@
       "last_solved": "2020-12-13T11:01:29.932Z"
     },
     {
+      "display_name": "kroi",
+      "challenges_solved": "12",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-13T13:31:05.584Z"
+    },
+    {
       "display_name": "TorErik",
       "challenges_solved": "12",
       "eggs_solved": "6",
@@ -443,12 +449,6 @@
       "challenges_solved": "11",
       "eggs_solved": "7",
       "last_solved": "2020-12-13T10:55:50.974Z"
-    },
-    {
-      "display_name": "kroi",
-      "challenges_solved": "11",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-13T13:04:41.633Z"
     },
     {
       "display_name": "EGG{fiLLLip}",
