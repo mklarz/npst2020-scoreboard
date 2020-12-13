@@ -3745,6 +3745,12 @@
       "last_solved": "2020-12-13T06:48:18.986Z"
     },
     {
+      "display_name": "Para",
+      "challenges_solved": "3",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-13T15:42:14.124Z"
+    },
+    {
       "display_name": "aco",
       "challenges_solved": "3",
       "eggs_solved": "0",
@@ -4541,12 +4547,6 @@
       "challenges_solved": "2",
       "eggs_solved": "1",
       "last_solved": "2020-12-06T03:01:45.788Z"
-    },
-    {
-      "display_name": "Para",
-      "challenges_solved": "2",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-06T14:46:40.409Z"
     },
     {
       "display_name": "sta",
