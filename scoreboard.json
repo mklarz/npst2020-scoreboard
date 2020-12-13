@@ -535,6 +535,12 @@
       "last_solved": "2020-12-13T08:11:35.245Z"
     },
     {
+      "display_name": "kroi",
+      "challenges_solved": "11",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-13T10:01:03.064Z"
+    },
+    {
       "display_name": "StoreStian",
       "challenges_solved": "11",
       "eggs_solved": "5",
@@ -809,12 +815,6 @@
       "challenges_solved": "10",
       "eggs_solved": "6",
       "last_solved": "2020-12-10T16:42:28.957Z"
-    },
-    {
-      "display_name": "kroi",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-10T20:14:47.308Z"
     },
     {
       "display_name": "Alterux",
