@@ -319,10 +319,22 @@
       "last_solved": "2020-12-13T10:05:46.096Z"
     },
     {
+      "display_name": "Påskekylling",
+      "challenges_solved": "12",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-13T15:36:25.599Z"
+    },
+    {
       "display_name": "m",
       "challenges_solved": "12",
       "eggs_solved": "4",
       "last_solved": "2020-12-12T18:52:48.436Z"
+    },
+    {
+      "display_name": "NordTorsken🎅",
+      "challenges_solved": "12",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-13T15:36:47.475Z"
     },
     {
       "display_name": "bjornr",
@@ -607,12 +619,6 @@
       "last_solved": "2020-12-11T20:19:10.827Z"
     },
     {
-      "display_name": "Påskekylling",
-      "challenges_solved": "11",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-11T20:36:54.304Z"
-    },
-    {
       "display_name": "zigkill",
       "challenges_solved": "11",
       "eggs_solved": "5",
@@ -773,12 +779,6 @@
       "challenges_solved": "11",
       "eggs_solved": "3",
       "last_solved": "2020-12-11T16:30:27.646Z"
-    },
-    {
-      "display_name": "NordTorsken🎅",
-      "challenges_solved": "11",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-11T19:09:26.102Z"
     },
     {
       "display_name": "SPST-agent",
@@ -8237,6 +8237,12 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-13T13:10:59.283Z"
+    },
+    {
+      "display_name": "DJChrizzemann",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-13T15:36:05.874Z"
     },
     {
       "display_name": "betjent2081",
