@@ -55,6 +55,18 @@
       "last_solved": "2020-12-13T17:23:51.761Z"
     },
     {
+      "display_name": "unblvr",
+      "challenges_solved": "13",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-13T17:45:09.030Z"
+    },
+    {
+      "display_name": "FairlyMagical",
+      "challenges_solved": "13",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-13T17:52:01.998Z"
+    },
+    {
       "display_name": "jo_k_er",
       "challenges_solved": "13",
       "eggs_solved": "7",
@@ -65,6 +77,18 @@
       "challenges_solved": "13",
       "eggs_solved": "7",
       "last_solved": "2020-12-13T17:12:54.187Z"
+    },
+    {
+      "display_name": "zup",
+      "challenges_solved": "13",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-13T17:35:39.848Z"
+    },
+    {
+      "display_name": "S Claus",
+      "challenges_solved": "13",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-13T17:56:35.829Z"
     },
     {
       "display_name": "Franzefrekk",
@@ -83,18 +107,6 @@
       "challenges_solved": "13",
       "eggs_solved": "2",
       "last_solved": "2020-12-13T17:07:26.580Z"
-    },
-    {
-      "display_name": "unblvr",
-      "challenges_solved": "12",
-      "eggs_solved": "8",
-      "last_solved": "2020-12-12T07:24:40.016Z"
-    },
-    {
-      "display_name": "FairlyMagical",
-      "challenges_solved": "12",
-      "eggs_solved": "8",
-      "last_solved": "2020-12-12T13:04:07.801Z"
     },
     {
       "display_name": "SlalomKvark",
@@ -193,12 +205,6 @@
       "last_solved": "2020-12-12T16:36:26.658Z"
     },
     {
-      "display_name": "zup",
-      "challenges_solved": "12",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-12T18:07:01.540Z"
-    },
-    {
       "display_name": "0x1",
       "challenges_solved": "12",
       "eggs_solved": "7",
@@ -233,12 +239,6 @@
       "challenges_solved": "12",
       "eggs_solved": "7",
       "last_solved": "2020-12-13T03:21:12.228Z"
-    },
-    {
-      "display_name": "S Claus",
-      "challenges_solved": "12",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-13T07:37:58.845Z"
     },
     {
       "display_name": "clorin",
@@ -1639,6 +1639,12 @@
       "last_solved": "2020-12-12T20:21:40.395Z"
     },
     {
+      "display_name": "marcelwk",
+      "challenges_solved": "7",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-13T17:33:42.673Z"
+    },
+    {
       "display_name": "Mellomann",
       "challenges_solved": "7",
       "eggs_solved": "3",
@@ -2003,12 +2009,6 @@
       "challenges_solved": "6",
       "eggs_solved": "4",
       "last_solved": "2020-12-08T18:20:08.060Z"
-    },
-    {
-      "display_name": "marcelwk",
-      "challenges_solved": "6",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-10T11:59:08.703Z"
     },
     {
       "display_name": "Mr. Snorr",
