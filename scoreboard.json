@@ -61,6 +61,12 @@
       "last_solved": "2020-12-13T17:03:28.174Z"
     },
     {
+      "display_name": "waffle",
+      "challenges_solved": "13",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-13T17:07:26.580Z"
+    },
+    {
       "display_name": "unblvr",
       "challenges_solved": "12",
       "eggs_solved": "8",
@@ -341,12 +347,6 @@
       "challenges_solved": "12",
       "eggs_solved": "3",
       "last_solved": "2020-12-13T15:36:47.475Z"
-    },
-    {
-      "display_name": "waffle",
-      "challenges_solved": "12",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-13T15:38:27.954Z"
     },
     {
       "display_name": "bjornr",
