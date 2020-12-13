@@ -1981,6 +1981,12 @@
       "last_solved": "2020-12-12T14:57:34.505Z"
     },
     {
+      "display_name": "cptn",
+      "challenges_solved": "7",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-13T04:03:19.163Z"
+    },
+    {
       "display_name": "padanfain",
       "challenges_solved": "6",
       "eggs_solved": "4",
@@ -2273,12 +2279,6 @@
       "challenges_solved": "6",
       "eggs_solved": "1",
       "last_solved": "2020-12-11T07:43:55.102Z"
-    },
-    {
-      "display_name": "cptn",
-      "challenges_solved": "6",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-11T16:35:56.892Z"
     },
     {
       "display_name": "josvik",
