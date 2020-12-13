@@ -91,6 +91,12 @@
       "last_solved": "2020-12-13T18:24:01.090Z"
     },
     {
+      "display_name": "Pzzaroo",
+      "challenges_solved": "13",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-13T20:16:50.101Z"
+    },
+    {
       "display_name": "jo_k_er",
       "challenges_solved": "13",
       "eggs_solved": "7",
@@ -173,12 +179,6 @@
       "challenges_solved": "12",
       "eggs_solved": "8",
       "last_solved": "2020-12-13T01:42:44.854Z"
-    },
-    {
-      "display_name": "Pzzaroo",
-      "challenges_solved": "12",
-      "eggs_solved": "8",
-      "last_solved": "2020-12-13T15:25:52.658Z"
     },
     {
       "display_name": "fjank",
@@ -271,6 +271,18 @@
       "last_solved": "2020-12-13T18:52:37.192Z"
     },
     {
+      "display_name": "Scalpel 🍷🎅",
+      "challenges_solved": "12",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-13T20:09:53.498Z"
+    },
+    {
+      "display_name": "ciphr",
+      "challenges_solved": "12",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-13T20:49:31.741Z"
+    },
+    {
       "display_name": "TorErik",
       "challenges_solved": "12",
       "eggs_solved": "6",
@@ -325,12 +337,6 @@
       "last_solved": "2020-12-13T12:50:09.993Z"
     },
     {
-      "display_name": "Scalpel 🍷🎅",
-      "challenges_solved": "12",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-13T19:39:12.535Z"
-    },
-    {
       "display_name": "Zarux",
       "challenges_solved": "12",
       "eggs_solved": "5",
@@ -371,12 +377,6 @@
       "challenges_solved": "11",
       "eggs_solved": "7",
       "last_solved": "2020-12-11T06:06:22.107Z"
-    },
-    {
-      "display_name": "ciphr",
-      "challenges_solved": "11",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-11T06:13:18.329Z"
     },
     {
       "display_name": "supergrecko",
@@ -595,6 +595,18 @@
       "last_solved": "2020-12-13T15:34:23.107Z"
     },
     {
+      "display_name": "Lovecraft",
+      "challenges_solved": "11",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-13T20:16:53.890Z"
+    },
+    {
+      "display_name": "trønderhack",
+      "challenges_solved": "11",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-13T20:20:15.691Z"
+    },
+    {
       "display_name": "Kaffemonster",
       "challenges_solved": "11",
       "eggs_solved": "5",
@@ -673,12 +685,6 @@
       "last_solved": "2020-12-12T15:05:22.038Z"
     },
     {
-      "display_name": "trønderhack",
-      "challenges_solved": "11",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-12T18:57:44.380Z"
-    },
-    {
       "display_name": "marrekanin",
       "challenges_solved": "11",
       "eggs_solved": "5",
@@ -701,12 +707,6 @@
       "challenges_solved": "11",
       "eggs_solved": "5",
       "last_solved": "2020-12-13T12:13:09.026Z"
-    },
-    {
-      "display_name": "Lovecraft",
-      "challenges_solved": "11",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-13T15:23:56.874Z"
     },
     {
       "display_name": "👈 Alv Betjent 👼",
@@ -1287,8 +1287,8 @@
     {
       "display_name": "GoGoLasagna",
       "challenges_solved": "9",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-10T20:54:54.840Z"
+      "eggs_solved": "2",
+      "last_solved": "2020-12-13T20:41:05.276Z"
     },
     {
       "display_name": "Rullekake",
