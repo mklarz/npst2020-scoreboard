@@ -559,6 +559,12 @@
       "last_solved": "2020-12-13T13:44:54.527Z"
     },
     {
+      "display_name": "mockingjay",
+      "challenges_solved": "11",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-13T15:34:23.107Z"
+    },
+    {
       "display_name": "Kaffemonster",
       "challenges_solved": "11",
       "eggs_solved": "5",
@@ -593,12 +599,6 @@
       "challenges_solved": "11",
       "eggs_solved": "5",
       "last_solved": "2020-12-11T14:01:12.608Z"
-    },
-    {
-      "display_name": "mockingjay",
-      "challenges_solved": "11",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-11T16:44:51.097Z"
     },
     {
       "display_name": "Betjent Eirik",
