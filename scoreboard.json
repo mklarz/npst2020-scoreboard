@@ -211,6 +211,12 @@
       "last_solved": "2020-12-13T00:58:33.384Z"
     },
     {
+      "display_name": "fredrik",
+      "challenges_solved": "12",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-13T03:21:12.228Z"
+    },
+    {
       "display_name": "TorErik",
       "challenges_solved": "12",
       "eggs_solved": "6",
@@ -347,12 +353,6 @@
       "challenges_solved": "11",
       "eggs_solved": "7",
       "last_solved": "2020-12-11T12:26:16.836Z"
-    },
-    {
-      "display_name": "fredrik",
-      "challenges_solved": "11",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-11T12:32:39.651Z"
     },
     {
       "display_name": "iLoop",
