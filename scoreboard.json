@@ -739,6 +739,12 @@
       "last_solved": "2020-12-13T04:42:55.977Z"
     },
     {
+      "display_name": "hanspf",
+      "challenges_solved": "11",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-13T14:30:00.074Z"
+    },
+    {
       "display_name": "vebxor",
       "challenges_solved": "11",
       "eggs_solved": "3",
@@ -923,12 +929,6 @@
       "challenges_solved": "10",
       "eggs_solved": "4",
       "last_solved": "2020-12-11T13:10:26.891Z"
-    },
-    {
-      "display_name": "hanspf",
-      "challenges_solved": "10",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-11T14:45:46.120Z"
     },
     {
       "display_name": "gen",
