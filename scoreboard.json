@@ -91,6 +91,12 @@
       "last_solved": "2020-12-14T11:09:43.543Z"
     },
     {
+      "display_name": "Sithis",
+      "challenges_solved": "14",
+      "eggs_solved": "9",
+      "last_solved": "2020-12-14T12:48:47.225Z"
+    },
+    {
       "display_name": "🦦lw",
       "challenges_solved": "14",
       "eggs_solved": "8",
@@ -101,12 +107,6 @@
       "challenges_solved": "14",
       "eggs_solved": "8",
       "last_solved": "2020-12-14T09:36:21.146Z"
-    },
-    {
-      "display_name": "Sithis",
-      "challenges_solved": "14",
-      "eggs_solved": "8",
-      "last_solved": "2020-12-14T09:38:06.042Z"
     },
     {
       "display_name": "S Claus",
@@ -215,6 +215,12 @@
       "challenges_solved": "13",
       "eggs_solved": "6",
       "last_solved": "2020-12-14T10:43:07.696Z"
+    },
+    {
+      "display_name": "chronos",
+      "challenges_solved": "13",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-14T12:22:26.114Z"
     },
     {
       "display_name": "Riphiphip",
@@ -355,12 +361,6 @@
       "last_solved": "2020-12-12T17:01:05.880Z"
     },
     {
-      "display_name": "chronos",
-      "challenges_solved": "12",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-12T20:36:47.815Z"
-    },
-    {
       "display_name": "ztj0x",
       "challenges_solved": "12",
       "eggs_solved": "6",
@@ -403,6 +403,18 @@
       "last_solved": "2020-12-14T00:41:51.709Z"
     },
     {
+      "display_name": "betjent732",
+      "challenges_solved": "12",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-14T12:00:20.558Z"
+    },
+    {
+      "display_name": "andreaspedersen",
+      "challenges_solved": "12",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-14T12:20:59.986Z"
+    },
+    {
       "display_name": "akberg",
       "challenges_solved": "12",
       "eggs_solved": "5",
@@ -421,10 +433,10 @@
       "last_solved": "2020-12-13T21:55:28.134Z"
     },
     {
-      "display_name": "betjent732",
+      "display_name": "vebxor",
       "challenges_solved": "12",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-14T10:55:31.620Z"
+      "eggs_solved": "3",
+      "last_solved": "2020-12-14T12:26:27.837Z"
     },
     {
       "display_name": "supergrecko",
@@ -619,12 +631,6 @@
       "last_solved": "2020-12-13T21:10:53.218Z"
     },
     {
-      "display_name": "andreaspedersen",
-      "challenges_solved": "11",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-14T09:14:55.617Z"
-    },
-    {
       "display_name": "Kaffemonster",
       "challenges_solved": "11",
       "eggs_solved": "5",
@@ -793,12 +799,6 @@
       "last_solved": "2020-12-13T21:08:27.821Z"
     },
     {
-      "display_name": "vebxor",
-      "challenges_solved": "11",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-11T11:33:34.204Z"
-    },
-    {
       "display_name": "Drangey",
       "challenges_solved": "11",
       "eggs_solved": "3",
@@ -959,6 +959,12 @@
       "challenges_solved": "10",
       "eggs_solved": "5",
       "last_solved": "2020-12-14T06:57:18.441Z"
+    },
+    {
+      "display_name": "aaaaaaaaaaaa",
+      "challenges_solved": "10",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-14T12:48:00.969Z"
     },
     {
       "display_name": "ocen",
@@ -1147,12 +1153,6 @@
       "last_solved": "2020-12-09T23:12:04.894Z"
     },
     {
-      "display_name": "aaaaaaaaaaaa",
-      "challenges_solved": "9",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-14T10:23:16.978Z"
-    },
-    {
       "display_name": "PolitimeisterBastian",
       "challenges_solved": "9",
       "eggs_solved": "4",
@@ -1219,6 +1219,12 @@
       "last_solved": "2020-12-12T11:01:29.022Z"
     },
     {
+      "display_name": "potetsos",
+      "challenges_solved": "9",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-14T12:47:39.983Z"
+    },
+    {
       "display_name": "ambientsound",
       "challenges_solved": "9",
       "eggs_solved": "3",
@@ -1267,6 +1273,12 @@
       "last_solved": "2020-12-14T10:36:52.275Z"
     },
     {
+      "display_name": "GoGoLasagna",
+      "challenges_solved": "9",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-14T12:46:19.908Z"
+    },
+    {
       "display_name": "falkjet",
       "challenges_solved": "9",
       "eggs_solved": "2",
@@ -1301,12 +1313,6 @@
       "challenges_solved": "9",
       "eggs_solved": "2",
       "last_solved": "2020-12-13T11:38:31.438Z"
-    },
-    {
-      "display_name": "GoGoLasagna",
-      "challenges_solved": "9",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-13T20:41:05.276Z"
     },
     {
       "display_name": "Rullekake",
@@ -1445,12 +1451,6 @@
       "challenges_solved": "8",
       "eggs_solved": "4",
       "last_solved": "2020-12-08T22:48:20.196Z"
-    },
-    {
-      "display_name": "potetsos",
-      "challenges_solved": "8",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-09T00:20:39.780Z"
     },
     {
       "display_name": "e",
@@ -3769,6 +3769,12 @@
       "last_solved": "2020-12-13T15:42:14.124Z"
     },
     {
+      "display_name": "⭐ betjent1337",
+      "challenges_solved": "3",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-14T12:48:19.475Z"
+    },
+    {
       "display_name": "aco",
       "challenges_solved": "3",
       "eggs_solved": "0",
@@ -4679,12 +4685,6 @@
       "challenges_solved": "2",
       "eggs_solved": "0",
       "last_solved": "2020-12-02T08:19:41.675Z"
-    },
-    {
-      "display_name": "⭐ betjent1337",
-      "challenges_solved": "2",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-02T08:25:31.471Z"
     },
     {
       "display_name": "artemis",
@@ -8273,6 +8273,18 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-14T06:41:15.167Z"
+    },
+    {
+      "display_name": "betjent2594",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-14T12:33:05.004Z"
+    },
+    {
+      "display_name": "Succulent",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-14T12:55:04.870Z"
     },
     {
       "display_name": "betjent2081",
