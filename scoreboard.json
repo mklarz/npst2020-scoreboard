@@ -211,6 +211,18 @@
       "last_solved": "2020-12-14T15:36:33.854Z"
     },
     {
+      "display_name": "bjornr",
+      "challenges_solved": "13",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-14T16:20:44.866Z"
+    },
+    {
+      "display_name": "eriknn",
+      "challenges_solved": "13",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-14T16:23:51.916Z"
+    },
+    {
       "display_name": "TorErik",
       "challenges_solved": "13",
       "eggs_solved": "7",
@@ -227,12 +239,6 @@
       "challenges_solved": "13",
       "eggs_solved": "7",
       "last_solved": "2020-12-14T09:54:48.442Z"
-    },
-    {
-      "display_name": "bjornr",
-      "challenges_solved": "13",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-14T10:48:01.265Z"
     },
     {
       "display_name": "0x1",
@@ -305,12 +311,6 @@
       "challenges_solved": "12",
       "eggs_solved": "8",
       "last_solved": "2020-12-14T11:04:19.984Z"
-    },
-    {
-      "display_name": "eriknn",
-      "challenges_solved": "12",
-      "eggs_solved": "8",
-      "last_solved": "2020-12-14T11:55:30.036Z"
     },
     {
       "display_name": "⭐ Joey",
@@ -1351,6 +1351,12 @@
       "last_solved": "2020-12-14T08:52:57.957Z"
     },
     {
+      "display_name": "millido",
+      "challenges_solved": "9",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-14T16:32:26.386Z"
+    },
+    {
       "display_name": "zaker",
       "challenges_solved": "9",
       "eggs_solved": "0",
@@ -1649,12 +1655,6 @@
       "challenges_solved": "8",
       "eggs_solved": "1",
       "last_solved": "2020-12-08T15:05:01.786Z"
-    },
-    {
-      "display_name": "millido",
-      "challenges_solved": "8",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-08T15:55:51.069Z"
     },
     {
       "display_name": "runasand",
