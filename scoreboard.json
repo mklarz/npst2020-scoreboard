@@ -163,6 +163,18 @@
       "last_solved": "2020-12-15T14:11:43.637Z"
     },
     {
+      "display_name": "fredrik",
+      "challenges_solved": "15",
+      "eggs_solved": "9",
+      "last_solved": "2020-12-15T16:13:44.284Z"
+    },
+    {
+      "display_name": "skuggen🚽",
+      "challenges_solved": "15",
+      "eggs_solved": "9",
+      "last_solved": "2020-12-15T16:23:00.118Z"
+    },
+    {
       "display_name": "0x1",
       "challenges_solved": "15",
       "eggs_solved": "8",
@@ -193,6 +205,12 @@
       "last_solved": "2020-12-15T11:38:36.642Z"
     },
     {
+      "display_name": "SolanGundersen",
+      "challenges_solved": "15",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-15T16:00:41.668Z"
+    },
+    {
       "display_name": "chronos",
       "challenges_solved": "15",
       "eggs_solved": "7",
@@ -217,28 +235,10 @@
       "last_solved": "2020-12-14T12:48:47.225Z"
     },
     {
-      "display_name": "fredrik",
-      "challenges_solved": "14",
-      "eggs_solved": "9",
-      "last_solved": "2020-12-14T18:00:36.566Z"
-    },
-    {
-      "display_name": "skuggen🚽",
-      "challenges_solved": "14",
-      "eggs_solved": "9",
-      "last_solved": "2020-12-14T18:41:03.744Z"
-    },
-    {
       "display_name": "eriknn",
       "challenges_solved": "14",
       "eggs_solved": "9",
       "last_solved": "2020-12-15T10:25:53.132Z"
-    },
-    {
-      "display_name": "SolanGundersen",
-      "challenges_solved": "14",
-      "eggs_solved": "8",
-      "last_solved": "2020-12-14T13:42:34.844Z"
     },
     {
       "display_name": "Scalpel 🍷🎅",
@@ -325,6 +325,12 @@
       "last_solved": "2020-12-15T12:31:11.356Z"
     },
     {
+      "display_name": "skyranger",
+      "challenges_solved": "14",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-15T16:44:41.438Z"
+    },
+    {
       "display_name": "yens",
       "challenges_solved": "14",
       "eggs_solved": "2",
@@ -373,6 +379,24 @@
       "last_solved": "2020-12-15T10:23:33.576Z"
     },
     {
+      "display_name": "roys",
+      "challenges_solved": "13",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-15T16:08:38.607Z"
+    },
+    {
+      "display_name": "mats",
+      "challenges_solved": "13",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-15T16:37:35.181Z"
+    },
+    {
+      "display_name": "SignalNoise",
+      "challenges_solved": "13",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-15T16:56:28.613Z"
+    },
+    {
       "display_name": "Rånstad",
       "challenges_solved": "13",
       "eggs_solved": "6",
@@ -419,12 +443,6 @@
       "challenges_solved": "13",
       "eggs_solved": "5",
       "last_solved": "2020-12-15T10:01:12.418Z"
-    },
-    {
-      "display_name": "skyranger",
-      "challenges_solved": "13",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-15T11:01:33.605Z"
     },
     {
       "display_name": "📯 ostekake1",
@@ -499,12 +517,6 @@
       "last_solved": "2020-12-13T13:52:23.552Z"
     },
     {
-      "display_name": "roys",
-      "challenges_solved": "12",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-14T08:13:49.337Z"
-    },
-    {
       "display_name": "DagensHelt",
       "challenges_solved": "12",
       "eggs_solved": "7",
@@ -517,22 +529,10 @@
       "last_solved": "2020-12-14T21:34:55.209Z"
     },
     {
-      "display_name": "mats",
-      "challenges_solved": "12",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-14T22:55:54.897Z"
-    },
-    {
       "display_name": "🐳 VДLDIМIГ 🐳",
       "challenges_solved": "12",
       "eggs_solved": "7",
       "last_solved": "2020-12-15T14:31:24.584Z"
-    },
-    {
-      "display_name": "SignalNoise",
-      "challenges_solved": "12",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-12T23:13:25.131Z"
     },
     {
       "display_name": "henrikhorluck",
@@ -593,6 +593,18 @@
       "challenges_solved": "12",
       "eggs_solved": "6",
       "last_solved": "2020-12-15T14:06:24.331Z"
+    },
+    {
+      "display_name": "trønderhack",
+      "challenges_solved": "12",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-15T16:02:50.717Z"
+    },
+    {
+      "display_name": "marrekanin",
+      "challenges_solved": "12",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-15T16:51:44.771Z"
     },
     {
       "display_name": "aaaaaaaaaaaa",
@@ -767,18 +779,6 @@
       "challenges_solved": "11",
       "eggs_solved": "6",
       "last_solved": "2020-12-13T15:34:23.107Z"
-    },
-    {
-      "display_name": "trønderhack",
-      "challenges_solved": "11",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-13T20:20:15.691Z"
-    },
-    {
-      "display_name": "marrekanin",
-      "challenges_solved": "11",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-13T21:10:53.218Z"
     },
     {
       "display_name": "betjent769",
@@ -1051,6 +1051,12 @@
       "last_solved": "2020-12-15T09:11:50.089Z"
     },
     {
+      "display_name": "🛷🛷🛷🛷🛷🛷🛷🛷-fan",
+      "challenges_solved": "10",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-15T16:48:22.672Z"
+    },
+    {
       "display_name": "Mr.Larsen",
       "challenges_solved": "10",
       "eggs_solved": "3",
@@ -1267,10 +1273,10 @@
       "last_solved": "2020-12-14T22:10:44.276Z"
     },
     {
-      "display_name": "🛷🛷🛷🛷🛷🛷🛷🛷-fan",
+      "display_name": "GoGoLasagna",
       "challenges_solved": "9",
       "eggs_solved": "4",
-      "last_solved": "2020-12-14T22:25:06.733Z"
+      "last_solved": "2020-12-15T16:21:26.537Z"
     },
     {
       "display_name": "ambientsound",
@@ -1313,12 +1319,6 @@
       "challenges_solved": "9",
       "eggs_solved": "3",
       "last_solved": "2020-12-14T08:59:18.102Z"
-    },
-    {
-      "display_name": "GoGoLasagna",
-      "challenges_solved": "9",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-14T12:46:19.908Z"
     },
     {
       "display_name": "falkjet",
@@ -2347,6 +2347,12 @@
       "last_solved": "2020-12-11T19:50:23.722Z"
     },
     {
+      "display_name": "bruh lydeffekt nummer 2",
+      "challenges_solved": "6",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-15T16:57:24.976Z"
+    },
+    {
       "display_name": "Yeet mcYeetface",
       "challenges_solved": "6",
       "eggs_solved": "0",
@@ -3209,12 +3215,6 @@
       "challenges_solved": "4",
       "eggs_solved": "1",
       "last_solved": "2020-12-12T22:53:12.633Z"
-    },
-    {
-      "display_name": "bruh lydeffekt nummer 2",
-      "challenges_solved": "4",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-13T14:28:50.280Z"
     },
     {
       "display_name": "⭐ betjent1337",
@@ -4525,6 +4525,12 @@
       "last_solved": "2020-12-14T23:13:13.447Z"
     },
     {
+      "display_name": "betjent2624",
+      "challenges_solved": "3",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-15T16:01:04.573Z"
+    },
+    {
       "display_name": "betjent577",
       "challenges_solved": "2",
       "eggs_solved": "2",
@@ -5473,10 +5479,10 @@
       "last_solved": "2020-12-15T10:04:16.469Z"
     },
     {
-      "display_name": "betjent2624",
+      "display_name": "betjent2619",
       "challenges_solved": "2",
       "eggs_solved": "0",
-      "last_solved": "2020-12-15T15:42:04.477Z"
+      "last_solved": "2020-12-15T16:26:20.037Z"
     },
     {
       "display_name": "Alv1",
@@ -8339,12 +8345,6 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-15T09:19:31.941Z"
-    },
-    {
-      "display_name": "betjent2619",
-      "challenges_solved": "1",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-15T10:56:44.921Z"
     },
     {
       "display_name": "yupyup",
