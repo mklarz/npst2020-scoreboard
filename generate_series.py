@@ -15,16 +15,25 @@ commits = list(repo.iter_commits(master))[::-1]
 
 last_scoreboard = None
 users = {}
+print("Parsing commits and creating series.json")
 for commit in commits:
-    content = repo.git.show('{}:{}'.format(commit.hexsha, "scoreboard.min.json"))
-    scoreboard = json.loads(content)["result"]
+    #print("Parsing: {} - {}".format(commit.hexsha, commit.committed_date))
+    content = repo.git.show('{}:{}'.format(commit.hexsha, "scoreboard.min.json")).strip()
+    try:
+        scoreboard = json.loads(content)["result"]
+    except Exception as e:
+        # print(scoreboard)
+        # print("Error for scoreboard ", e)
+        continue
     last_scoreboard = scoreboard
     for scoreboard_user in scoreboard:
         current_challenges = int(scoreboard_user["challenges_solved"])
         current_eggs = int(scoreboard_user["eggs_solved"])
         name = scoreboard_user["display_name"]
         # FIXME: Dateparsing is extremly costly, see if we can just pass the last_solved isoformat to frontend
-        last_solve = round(dateutil.parser.parse(scoreboard_user["last_solved"]).timestamp()) * 1000
+        # Let's use the commit date for now...
+        # last_solve = round(dateutil.parser.parse(scoreboard_user["last_solved"]).timestamp()) * 1000
+        last_solve = round(commit.committed_date * 1000)
 
         if name not in users:
             users[name] = {
@@ -73,3 +82,5 @@ for index, scoreboard_user in enumerate(last_scoreboard[:LIMIT]):
 
 with open("series.json", "w") as f:
     json.dump(series, f)
+
+print("Done!")
