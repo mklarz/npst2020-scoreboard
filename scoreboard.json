@@ -151,6 +151,12 @@
       "last_solved": "2020-12-16T21:46:36.121Z"
     },
     {
+      "display_name": "kroi",
+      "challenges_solved": "16",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-16T22:28:10.147Z"
+    },
+    {
       "display_name": "betjent747",
       "challenges_solved": "16",
       "eggs_solved": "9",
@@ -173,12 +179,6 @@
       "challenges_solved": "16",
       "eggs_solved": "9",
       "last_solved": "2020-12-16T16:48:53.695Z"
-    },
-    {
-      "display_name": "kroi",
-      "challenges_solved": "16",
-      "eggs_solved": "9",
-      "last_solved": "2020-12-16T17:05:05.613Z"
     },
     {
       "display_name": "fjank",
@@ -223,10 +223,22 @@
       "last_solved": "2020-12-16T21:13:04.627Z"
     },
     {
+      "display_name": "TorErik",
+      "challenges_solved": "16",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-16T22:44:48.768Z"
+    },
+    {
       "display_name": "stigru",
       "challenges_solved": "16",
       "eggs_solved": "7",
       "last_solved": "2020-12-16T17:14:38.536Z"
+    },
+    {
+      "display_name": "Påskekylling",
+      "challenges_solved": "16",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-16T22:09:55.132Z"
     },
     {
       "display_name": "andreaspedersen",
@@ -235,16 +247,16 @@
       "last_solved": "2020-12-16T14:33:46.865Z"
     },
     {
+      "display_name": "kalmakka",
+      "challenges_solved": "16",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-16T22:53:29.495Z"
+    },
+    {
       "display_name": "Oldolo",
       "challenges_solved": "16",
       "eggs_solved": "5",
       "last_solved": "2020-12-16T20:16:01.373Z"
-    },
-    {
-      "display_name": "kalmakka",
-      "challenges_solved": "16",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-16T20:52:10.342Z"
     },
     {
       "display_name": "eriknn",
@@ -283,12 +295,6 @@
       "last_solved": "2020-12-15T22:57:05.656Z"
     },
     {
-      "display_name": "TorErik",
-      "challenges_solved": "15",
-      "eggs_solved": "8",
-      "last_solved": "2020-12-16T11:49:05.738Z"
-    },
-    {
       "display_name": "betjent734",
       "challenges_solved": "15",
       "eggs_solved": "8",
@@ -311,12 +317,6 @@
       "challenges_solved": "15",
       "eggs_solved": "8",
       "last_solved": "2020-12-16T21:33:59.947Z"
-    },
-    {
-      "display_name": "Påskekylling",
-      "challenges_solved": "15",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-15T11:52:35.446Z"
     },
     {
       "display_name": "Franzefrekk",
@@ -463,6 +463,12 @@
       "last_solved": "2020-12-16T20:22:05.398Z"
     },
     {
+      "display_name": "T-StoneLeif",
+      "challenges_solved": "14",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-16T22:19:24.552Z"
+    },
+    {
       "display_name": "yens",
       "challenges_solved": "14",
       "eggs_solved": "3",
@@ -569,12 +575,6 @@
       "challenges_solved": "13",
       "eggs_solved": "5",
       "last_solved": "2020-12-14T10:38:52.456Z"
-    },
-    {
-      "display_name": "T-StoneLeif",
-      "challenges_solved": "13",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-15T10:01:12.418Z"
     },
     {
       "display_name": "Oda",
