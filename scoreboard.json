@@ -1,6 +1,12 @@
 {
   "result": [
     {
+      "display_name": "unblvr",
+      "challenges_solved": "16",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-16T06:24:59.517Z"
+    },
+    {
       "display_name": "Tivec",
       "challenges_solved": "15",
       "eggs_solved": "9",
@@ -47,12 +53,6 @@
       "challenges_solved": "15",
       "eggs_solved": "9",
       "last_solved": "2020-12-15T06:25:03.630Z"
-    },
-    {
-      "display_name": "unblvr",
-      "challenges_solved": "15",
-      "eggs_solved": "9",
-      "last_solved": "2020-12-15T06:33:08.296Z"
     },
     {
       "display_name": "Pzzaroo",
