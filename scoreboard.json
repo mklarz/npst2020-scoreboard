@@ -151,6 +151,12 @@
       "last_solved": "2020-12-17T12:48:40.766Z"
     },
     {
+      "display_name": "S Claus",
+      "challenges_solved": "17",
+      "eggs_solved": "9",
+      "last_solved": "2020-12-17T13:52:43.628Z"
+    },
+    {
       "display_name": "chronos",
       "challenges_solved": "17",
       "eggs_solved": "8",
@@ -215,12 +221,6 @@
       "challenges_solved": "16",
       "eggs_solved": "10",
       "last_solved": "2020-12-17T00:09:33.024Z"
-    },
-    {
-      "display_name": "S Claus",
-      "challenges_solved": "16",
-      "eggs_solved": "9",
-      "last_solved": "2020-12-16T15:37:20.803Z"
     },
     {
       "display_name": "enshar",
@@ -5701,6 +5701,12 @@
       "last_solved": "2020-12-16T20:54:10.792Z"
     },
     {
+      "display_name": "wasd",
+      "challenges_solved": "1",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-17T13:51:29.424Z"
+    },
+    {
       "display_name": "BobTheShoplifter",
       "challenges_solved": "1",
       "eggs_solved": "0",
@@ -8585,12 +8591,6 @@
       "challenges_solved": "0",
       "eggs_solved": "1",
       "last_solved": "2020-12-11T14:31:27.089Z"
-    },
-    {
-      "display_name": "wasd",
-      "challenges_solved": "0",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-17T10:58:12.777Z"
     }
   ]
 }
