@@ -133,10 +133,22 @@
       "last_solved": "2020-12-17T11:33:00.344Z"
     },
     {
+      "display_name": "Pzzaroo",
+      "challenges_solved": "17",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-17T12:32:28.751Z"
+    },
+    {
       "display_name": "betjent747",
       "challenges_solved": "17",
       "eggs_solved": "9",
       "last_solved": "2020-12-17T07:29:44.079Z"
+    },
+    {
+      "display_name": "SolanGundersen",
+      "challenges_solved": "17",
+      "eggs_solved": "9",
+      "last_solved": "2020-12-17T12:48:40.766Z"
     },
     {
       "display_name": "chronos",
@@ -181,12 +193,6 @@
       "last_solved": "2020-12-16T11:39:09.529Z"
     },
     {
-      "display_name": "Pzzaroo",
-      "challenges_solved": "16",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-16T14:14:20.474Z"
-    },
-    {
       "display_name": "skuggen🎄",
       "challenges_solved": "16",
       "eggs_solved": "10",
@@ -209,12 +215,6 @@
       "challenges_solved": "16",
       "eggs_solved": "10",
       "last_solved": "2020-12-17T00:09:33.024Z"
-    },
-    {
-      "display_name": "SolanGundersen",
-      "challenges_solved": "16",
-      "eggs_solved": "9",
-      "last_solved": "2020-12-16T11:00:48.614Z"
     },
     {
       "display_name": "S Claus",
@@ -619,6 +619,12 @@
       "last_solved": "2020-12-14T09:29:51.843Z"
     },
     {
+      "display_name": "hanspf",
+      "challenges_solved": "13",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-17T12:47:16.075Z"
+    },
+    {
       "display_name": "BokMonster",
       "challenges_solved": "13",
       "eggs_solved": "3",
@@ -713,12 +719,6 @@
       "challenges_solved": "12",
       "eggs_solved": "5",
       "last_solved": "2020-12-16T18:26:55.528Z"
-    },
-    {
-      "display_name": "hanspf",
-      "challenges_solved": "12",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-15T07:42:59.249Z"
     },
     {
       "display_name": "🐐NorskFjellGeit🐐",
@@ -2077,6 +2077,12 @@
       "last_solved": "2020-12-08T18:20:08.060Z"
     },
     {
+      "display_name": "betjent2495",
+      "challenges_solved": "6",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-17T12:34:26.357Z"
+    },
+    {
       "display_name": "Mr. Snorr",
       "challenges_solved": "6",
       "eggs_solved": "3",
@@ -2117,12 +2123,6 @@
       "challenges_solved": "6",
       "eggs_solved": "3",
       "last_solved": "2020-12-09T19:50:46.717Z"
-    },
-    {
-      "display_name": "betjent2495",
-      "challenges_solved": "6",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-17T09:56:39.484Z"
     },
     {
       "display_name": "betjent472",
@@ -8513,6 +8513,12 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-17T08:43:17.194Z"
+    },
+    {
+      "display_name": "DenBestePåTorsdager",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-17T12:41:09.765Z"
     },
     {
       "display_name": "betjent2081",
