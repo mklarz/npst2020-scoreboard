@@ -157,6 +157,12 @@
       "last_solved": "2020-12-16T22:28:10.147Z"
     },
     {
+      "display_name": "SlalomKvark",
+      "challenges_solved": "16",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-16T23:52:45.928Z"
+    },
+    {
       "display_name": "betjent747",
       "challenges_solved": "16",
       "eggs_solved": "9",
@@ -191,12 +197,6 @@
       "challenges_solved": "16",
       "eggs_solved": "9",
       "last_solved": "2020-12-16T17:32:22.941Z"
-    },
-    {
-      "display_name": "SlalomKvark",
-      "challenges_solved": "16",
-      "eggs_solved": "9",
-      "last_solved": "2020-12-16T20:43:46.867Z"
     },
     {
       "display_name": "bitBug",
@@ -241,6 +241,12 @@
       "last_solved": "2020-12-16T22:09:55.132Z"
     },
     {
+      "display_name": "SignalNoise",
+      "challenges_solved": "16",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-16T23:07:29.214Z"
+    },
+    {
       "display_name": "andreaspedersen",
       "challenges_solved": "16",
       "eggs_solved": "6",
@@ -269,6 +275,12 @@
       "challenges_solved": "15",
       "eggs_solved": "9",
       "last_solved": "2020-12-15T14:11:43.637Z"
+    },
+    {
+      "display_name": "roys",
+      "challenges_solved": "15",
+      "eggs_solved": "9",
+      "last_solved": "2020-12-16T23:06:47.448Z"
     },
     {
       "display_name": "0x1",
@@ -307,16 +319,16 @@
       "last_solved": "2020-12-16T19:38:21.289Z"
     },
     {
-      "display_name": "roys",
-      "challenges_solved": "15",
-      "eggs_solved": "8",
-      "last_solved": "2020-12-16T20:26:38.449Z"
-    },
-    {
       "display_name": "Antiwaxxers2021",
       "challenges_solved": "15",
       "eggs_solved": "8",
       "last_solved": "2020-12-16T21:33:59.947Z"
+    },
+    {
+      "display_name": "StoreStian",
+      "challenges_solved": "15",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-16T23:02:27.326Z"
     },
     {
       "display_name": "Franzefrekk",
@@ -325,22 +337,10 @@
       "last_solved": "2020-12-15T20:22:30.932Z"
     },
     {
-      "display_name": "SignalNoise",
-      "challenges_solved": "15",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-15T21:56:04.216Z"
-    },
-    {
       "display_name": "ztj0x",
       "challenges_solved": "15",
       "eggs_solved": "7",
       "last_solved": "2020-12-16T18:37:51.238Z"
-    },
-    {
-      "display_name": "StoreStian",
-      "challenges_solved": "15",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-16T19:53:36.099Z"
     },
     {
       "display_name": "zigkill",
@@ -393,8 +393,8 @@
     {
       "display_name": "MrT",
       "challenges_solved": "14",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-15T18:11:59.263Z"
+      "eggs_solved": "8",
+      "last_solved": "2020-12-16T23:55:44.218Z"
     },
     {
       "display_name": "mockingjay",
@@ -1309,6 +1309,12 @@
       "last_solved": "2020-12-15T21:57:53.992Z"
     },
     {
+      "display_name": "betjent2215",
+      "challenges_solved": "9",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-16T23:43:18.536Z"
+    },
+    {
       "display_name": "ambientsound",
       "challenges_solved": "9",
       "eggs_solved": "3",
@@ -1517,12 +1523,6 @@
       "challenges_solved": "8",
       "eggs_solved": "4",
       "last_solved": "2020-12-12T08:57:03.073Z"
-    },
-    {
-      "display_name": "betjent2215",
-      "challenges_solved": "8",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-16T16:59:46.969Z"
     },
     {
       "display_name": "losol",
