@@ -487,6 +487,12 @@
       "last_solved": "2020-12-17T08:50:35.849Z"
     },
     {
+      "display_name": "Korvald",
+      "challenges_solved": "14",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-17T23:43:11.012Z"
+    },
+    {
       "display_name": "Chr1st1an",
       "challenges_solved": "14",
       "eggs_solved": "6",
@@ -497,12 +503,6 @@
       "challenges_solved": "14",
       "eggs_solved": "6",
       "last_solved": "2020-12-17T11:42:48.860Z"
-    },
-    {
-      "display_name": "Korvald",
-      "challenges_solved": "14",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-17T22:40:25.511Z"
     },
     {
       "display_name": "Carburetti",
@@ -1771,6 +1771,12 @@
       "last_solved": "2020-12-12T20:21:40.395Z"
     },
     {
+      "display_name": "betjent2495",
+      "challenges_solved": "7",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-17T23:04:11.302Z"
+    },
+    {
       "display_name": "Mellomann",
       "challenges_solved": "7",
       "eggs_solved": "3",
@@ -2087,12 +2093,6 @@
       "challenges_solved": "6",
       "eggs_solved": "4",
       "last_solved": "2020-12-08T18:20:08.060Z"
-    },
-    {
-      "display_name": "betjent2495",
-      "challenges_solved": "6",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-17T12:34:26.357Z"
     },
     {
       "display_name": "Mr. Snorr",
@@ -8555,6 +8555,12 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-17T20:37:38.123Z"
+    },
+    {
+      "display_name": "betjent2691",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-17T23:42:39.839Z"
     },
     {
       "display_name": "betjent2081",
