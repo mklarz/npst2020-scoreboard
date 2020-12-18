@@ -109,6 +109,12 @@
       "last_solved": "2020-12-18T13:45:57.737Z"
     },
     {
+      "display_name": "kalmakka",
+      "challenges_solved": "18",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-18T14:44:13.226Z"
+    },
+    {
       "display_name": "StateOfLimbo",
       "challenges_solved": "17",
       "eggs_solved": "10",
@@ -229,16 +235,16 @@
       "last_solved": "2020-12-18T09:50:27.503Z"
     },
     {
+      "display_name": "Zarux",
+      "challenges_solved": "17",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-18T14:13:05.774Z"
+    },
+    {
       "display_name": "stigru",
       "challenges_solved": "17",
       "eggs_solved": "7",
       "last_solved": "2020-12-17T08:59:25.286Z"
-    },
-    {
-      "display_name": "kalmakka",
-      "challenges_solved": "17",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-17T15:19:59.720Z"
     },
     {
       "display_name": "Franzefrekk",
@@ -299,12 +305,6 @@
       "challenges_solved": "16",
       "eggs_solved": "8",
       "last_solved": "2020-12-16T22:44:48.768Z"
-    },
-    {
-      "display_name": "Zarux",
-      "challenges_solved": "16",
-      "eggs_solved": "8",
-      "last_solved": "2020-12-17T15:32:29.768Z"
     },
     {
       "display_name": "Antiwaxxers2021",
@@ -3817,6 +3817,12 @@
       "last_solved": "2020-12-18T11:42:25.928Z"
     },
     {
+      "display_name": "sn33kz",
+      "challenges_solved": "3",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-18T14:52:25.211Z"
+    },
+    {
       "display_name": "aco",
       "challenges_solved": "3",
       "eggs_solved": "0",
@@ -4591,6 +4597,12 @@
       "last_solved": "2020-12-18T09:15:05.205Z"
     },
     {
+      "display_name": "betjent1497",
+      "challenges_solved": "3",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-18T14:31:45.609Z"
+    },
+    {
       "display_name": "betjent577",
       "challenges_solved": "2",
       "eggs_solved": "2",
@@ -4757,12 +4769,6 @@
       "challenges_solved": "2",
       "eggs_solved": "1",
       "last_solved": "2020-12-17T22:02:09.944Z"
-    },
-    {
-      "display_name": "sn33kz",
-      "challenges_solved": "2",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-18T13:43:51.110Z"
     },
     {
       "display_name": "n0k0",
@@ -5245,12 +5251,6 @@
       "last_solved": "2020-12-03T18:56:57.426Z"
     },
     {
-      "display_name": "betjent1497",
-      "challenges_solved": "2",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-03T19:44:49.375Z"
-    },
-    {
       "display_name": "669963368",
       "challenges_solved": "2",
       "eggs_solved": "0",
@@ -5615,6 +5615,12 @@
       "challenges_solved": "2",
       "eggs_solved": "0",
       "last_solved": "2020-12-18T12:09:04.976Z"
+    },
+    {
+      "display_name": "Overbetjent Cake",
+      "challenges_solved": "2",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-18T14:57:34.230Z"
     },
     {
       "display_name": "Alv1",
@@ -8593,16 +8599,22 @@
       "last_solved": "2020-12-18T13:15:35.419Z"
     },
     {
-      "display_name": "Overbetjent Cake",
-      "challenges_solved": "1",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-18T13:27:50.152Z"
-    },
-    {
       "display_name": "betjent2705",
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-18T13:31:45.975Z"
+    },
+    {
+      "display_name": "betjent2709",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-18T14:22:12.613Z"
+    },
+    {
+      "display_name": "betjent2710",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-18T14:30:22.616Z"
     },
     {
       "display_name": "betjent2081",
