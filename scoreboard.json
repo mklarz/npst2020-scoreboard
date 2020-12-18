@@ -115,16 +115,22 @@
       "last_solved": "2020-12-18T15:36:16.463Z"
     },
     {
+      "display_name": "Ziggaloo",
+      "challenges_solved": "18",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-18T16:31:24.333Z"
+    },
+    {
+      "display_name": "10 x ⭐",
+      "challenges_solved": "18",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-18T16:34:17.257Z"
+    },
+    {
       "display_name": "kalmakka",
       "challenges_solved": "18",
       "eggs_solved": "7",
       "last_solved": "2020-12-18T14:44:13.226Z"
-    },
-    {
-      "display_name": "Ziggaloo",
-      "challenges_solved": "17",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-17T06:58:56.978Z"
     },
     {
       "display_name": "Arkanor",
@@ -137,12 +143,6 @@
       "challenges_solved": "17",
       "eggs_solved": "10",
       "last_solved": "2020-12-17T09:19:12.713Z"
-    },
-    {
-      "display_name": "10 x ⭐",
-      "challenges_solved": "17",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-17T10:12:52.259Z"
     },
     {
       "display_name": "Røllik Münch",
@@ -505,6 +505,12 @@
       "last_solved": "2020-12-18T15:49:36.415Z"
     },
     {
+      "display_name": "Armybrat",
+      "challenges_solved": "14",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-18T16:42:46.556Z"
+    },
+    {
       "display_name": "Chr1st1an",
       "challenges_solved": "14",
       "eggs_solved": "6",
@@ -575,12 +581,6 @@
       "challenges_solved": "13",
       "eggs_solved": "7",
       "last_solved": "2020-12-16T21:36:14.765Z"
-    },
-    {
-      "display_name": "Armybrat",
-      "challenges_solved": "13",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-17T21:17:23.941Z"
     },
     {
       "display_name": "cybernizzen",
@@ -8621,6 +8621,12 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-18T15:48:38.467Z"
+    },
+    {
+      "display_name": "Tovvi95",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-18T16:09:41.466Z"
     },
     {
       "display_name": "betjent2081",
