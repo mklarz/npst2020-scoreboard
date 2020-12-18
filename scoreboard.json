@@ -103,6 +103,12 @@
       "last_solved": "2020-12-18T12:52:45.581Z"
     },
     {
+      "display_name": "pingu",
+      "challenges_solved": "18",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-18T13:45:57.737Z"
+    },
+    {
       "display_name": "StateOfLimbo",
       "challenges_solved": "17",
       "eggs_solved": "10",
@@ -125,12 +131,6 @@
       "challenges_solved": "17",
       "eggs_solved": "10",
       "last_solved": "2020-12-17T09:19:12.713Z"
-    },
-    {
-      "display_name": "pingu",
-      "challenges_solved": "17",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-17T09:34:23.960Z"
     },
     {
       "display_name": "10 x ⭐",
@@ -1159,6 +1159,12 @@
       "last_solved": "2020-12-16T10:40:48.995Z"
     },
     {
+      "display_name": "Betjent 1947",
+      "challenges_solved": "10",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-18T13:31:16.507Z"
+    },
+    {
       "display_name": "NissePappa",
       "challenges_solved": "10",
       "eggs_solved": "1",
@@ -1403,12 +1409,6 @@
       "challenges_solved": "9",
       "eggs_solved": "2",
       "last_solved": "2020-12-12T10:29:47.795Z"
-    },
-    {
-      "display_name": "Betjent 1947",
-      "challenges_solved": "9",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-13T11:38:31.438Z"
     },
     {
       "display_name": "amunds1",
@@ -1765,6 +1765,12 @@
       "last_solved": "2020-12-17T10:18:38.556Z"
     },
     {
+      "display_name": "⭐ betjent1337",
+      "challenges_solved": "8",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-18T13:41:56.732Z"
+    },
+    {
       "display_name": "Fax",
       "challenges_solved": "8",
       "eggs_solved": "0",
@@ -2099,12 +2105,6 @@
       "challenges_solved": "7",
       "eggs_solved": "1",
       "last_solved": "2020-12-13T04:03:19.163Z"
-    },
-    {
-      "display_name": "⭐ betjent1337",
-      "challenges_solved": "7",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-18T10:17:13.161Z"
     },
     {
       "display_name": "padanfain",
@@ -3439,6 +3439,12 @@
       "last_solved": "2020-12-11T15:21:58.999Z"
     },
     {
+      "display_name": "Lord_Bacon",
+      "challenges_solved": "4",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-18T13:53:17.245Z"
+    },
+    {
       "display_name": "Eljardo",
       "challenges_solved": "3",
       "eggs_solved": "2",
@@ -4579,12 +4585,6 @@
       "last_solved": "2020-12-18T00:14:12.985Z"
     },
     {
-      "display_name": "Lord_Bacon",
-      "challenges_solved": "3",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-18T02:20:54.023Z"
-    },
-    {
       "display_name": "andersoyvind",
       "challenges_solved": "3",
       "eggs_solved": "0",
@@ -4757,6 +4757,12 @@
       "challenges_solved": "2",
       "eggs_solved": "1",
       "last_solved": "2020-12-17T22:02:09.944Z"
+    },
+    {
+      "display_name": "sn33kz",
+      "challenges_solved": "2",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-18T13:43:51.110Z"
     },
     {
       "display_name": "n0k0",
@@ -5741,12 +5747,6 @@
       "challenges_solved": "1",
       "eggs_solved": "1",
       "last_solved": "2020-12-16T20:54:10.792Z"
-    },
-    {
-      "display_name": "sn33kz",
-      "challenges_solved": "1",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-17T18:44:58.624Z"
     },
     {
       "display_name": "BobTheShoplifter",
@@ -8585,6 +8585,24 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-18T11:56:30.379Z"
+    },
+    {
+      "display_name": "betjent2704",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-18T13:15:35.419Z"
+    },
+    {
+      "display_name": "Overbetjent Cake",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-18T13:27:50.152Z"
+    },
+    {
+      "display_name": "betjent2705",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-18T13:31:45.975Z"
     },
     {
       "display_name": "betjent2081",
