@@ -1,6 +1,18 @@
 {
   "result": [
     {
+      "display_name": "kek🍔",
+      "challenges_solved": "18",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-18T07:34:00.189Z"
+    },
+    {
+      "display_name": "vcpo",
+      "challenges_solved": "18",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-18T07:49:49.232Z"
+    },
+    {
       "display_name": "ciphr",
       "challenges_solved": "17",
       "eggs_solved": "10",
@@ -35,18 +47,6 @@
       "challenges_solved": "17",
       "eggs_solved": "10",
       "last_solved": "2020-12-17T06:41:30.283Z"
-    },
-    {
-      "display_name": "kek🍔",
-      "challenges_solved": "17",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-17T06:41:37.751Z"
-    },
-    {
-      "display_name": "vcpo",
-      "challenges_solved": "17",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-17T06:45:01.382Z"
     },
     {
       "display_name": "Ziggaloo",
