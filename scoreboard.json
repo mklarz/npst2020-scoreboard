@@ -151,6 +151,18 @@
       "last_solved": "2020-12-18T23:55:17.027Z"
     },
     {
+      "display_name": "0x1",
+      "challenges_solved": "18",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-19T00:14:04.043Z"
+    },
+    {
+      "display_name": "✅ waperon",
+      "challenges_solved": "18",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-19T00:16:48.959Z"
+    },
+    {
       "display_name": "enshar",
       "challenges_solved": "18",
       "eggs_solved": "9",
@@ -187,12 +199,6 @@
       "last_solved": "2020-12-17T08:29:22.457Z"
     },
     {
-      "display_name": "✅ waperon",
-      "challenges_solved": "17",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-17T09:19:12.713Z"
-    },
-    {
       "display_name": "Røllik Münch",
       "challenges_solved": "17",
       "eggs_solved": "10",
@@ -203,12 +209,6 @@
       "challenges_solved": "17",
       "eggs_solved": "10",
       "last_solved": "2020-12-17T12:32:28.751Z"
-    },
-    {
-      "display_name": "0x1",
-      "challenges_solved": "17",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-17T16:17:11.849Z"
     },
     {
       "display_name": "S Claus",
@@ -421,6 +421,12 @@
       "last_solved": "2020-12-17T18:30:45.746Z"
     },
     {
+      "display_name": "Korvald",
+      "challenges_solved": "15",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-19T00:53:27.915Z"
+    },
+    {
       "display_name": "betjent853",
       "challenges_solved": "15",
       "eggs_solved": "6",
@@ -491,12 +497,6 @@
       "challenges_solved": "14",
       "eggs_solved": "7",
       "last_solved": "2020-12-17T08:50:35.849Z"
-    },
-    {
-      "display_name": "Korvald",
-      "challenges_solved": "14",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-17T23:43:11.012Z"
     },
     {
       "display_name": "klodrik",
@@ -889,6 +889,12 @@
       "last_solved": "2020-12-17T10:08:27.063Z"
     },
     {
+      "display_name": "potetsos",
+      "challenges_solved": "11",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-19T00:05:13.228Z"
+    },
+    {
       "display_name": "Rocksteady🛷🛷🛷",
       "challenges_solved": "11",
       "eggs_solved": "4",
@@ -1085,12 +1091,6 @@
       "challenges_solved": "10",
       "eggs_solved": "5",
       "last_solved": "2020-12-16T17:12:43.504Z"
-    },
-    {
-      "display_name": "potetsos",
-      "challenges_solved": "10",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-18T20:06:31.948Z"
     },
     {
       "display_name": "ocen",
