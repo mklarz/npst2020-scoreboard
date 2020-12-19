@@ -723,8 +723,8 @@
     {
       "display_name": "tomas",
       "challenges_solved": "12",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-16T12:04:02.818Z"
+      "eggs_solved": "6",
+      "last_solved": "2020-12-19T16:51:17.354Z"
     },
     {
       "display_name": "Kaffemonster",
@@ -3271,6 +3271,24 @@
       "last_solved": "2020-12-18T23:05:06.001Z"
     },
     {
+      "display_name": "Halvard",
+      "challenges_solved": "4",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-19T16:32:42.804Z"
+    },
+    {
+      "display_name": "Inger Lise",
+      "challenges_solved": "4",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-19T16:34:49.009Z"
+    },
+    {
+      "display_name": "Aivo",
+      "challenges_solved": "4",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-19T16:35:14.829Z"
+    },
+    {
       "display_name": "benedicte",
       "challenges_solved": "4",
       "eggs_solved": "0",
@@ -4631,24 +4649,6 @@
       "challenges_solved": "3",
       "eggs_solved": "0",
       "last_solved": "2020-12-19T14:15:43.121Z"
-    },
-    {
-      "display_name": "Aivo",
-      "challenges_solved": "3",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-19T14:21:19.264Z"
-    },
-    {
-      "display_name": "Halvard",
-      "challenges_solved": "3",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-19T14:22:05.171Z"
-    },
-    {
-      "display_name": "Inger Lise",
-      "challenges_solved": "3",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-19T14:22:26.645Z"
     },
     {
       "display_name": "betjent577",
