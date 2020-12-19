@@ -1,6 +1,24 @@
 {
   "result": [
     {
+      "display_name": "Sithis",
+      "challenges_solved": "19",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-19T06:12:56.199Z"
+    },
+    {
+      "display_name": "unblvr",
+      "challenges_solved": "19",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-19T06:13:00.337Z"
+    },
+    {
+      "display_name": "WastefulNick",
+      "challenges_solved": "19",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-19T06:43:30.618Z"
+    },
+    {
       "display_name": "kek🍔",
       "challenges_solved": "18",
       "eggs_solved": "10",
@@ -11,12 +29,6 @@
       "challenges_solved": "18",
       "eggs_solved": "10",
       "last_solved": "2020-12-18T07:49:49.232Z"
-    },
-    {
-      "display_name": "WastefulNick",
-      "challenges_solved": "18",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-18T08:11:38.477Z"
     },
     {
       "display_name": "julebokk",
@@ -49,22 +61,10 @@
       "last_solved": "2020-12-18T09:28:32.786Z"
     },
     {
-      "display_name": "unblvr",
-      "challenges_solved": "18",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-18T09:35:01.185Z"
-    },
-    {
       "display_name": "🦦lw",
       "challenges_solved": "18",
       "eggs_solved": "10",
       "last_solved": "2020-12-18T10:02:21.682Z"
-    },
-    {
-      "display_name": "Sithis",
-      "challenges_solved": "18",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-18T10:16:35.989Z"
     },
     {
       "display_name": "kroi",
