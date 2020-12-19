@@ -139,6 +139,18 @@
       "last_solved": "2020-12-18T20:02:09.191Z"
     },
     {
+      "display_name": "jole",
+      "challenges_solved": "18",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-18T23:35:43.786Z"
+    },
+    {
+      "display_name": "wat",
+      "challenges_solved": "18",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-18T23:55:17.027Z"
+    },
+    {
       "display_name": "enshar",
       "challenges_solved": "18",
       "eggs_solved": "9",
@@ -151,10 +163,22 @@
       "last_solved": "2020-12-18T14:44:13.226Z"
     },
     {
+      "display_name": "stigru",
+      "challenges_solved": "18",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-18T23:21:13.430Z"
+    },
+    {
       "display_name": "Alexmackzie",
       "challenges_solved": "18",
       "eggs_solved": "6",
       "last_solved": "2020-12-18T19:00:22.875Z"
+    },
+    {
+      "display_name": "halvis",
+      "challenges_solved": "18",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-18T23:02:56.850Z"
     },
     {
       "display_name": "Arkanor",
@@ -173,18 +197,6 @@
       "challenges_solved": "17",
       "eggs_solved": "10",
       "last_solved": "2020-12-17T10:34:49.322Z"
-    },
-    {
-      "display_name": "wat",
-      "challenges_solved": "17",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-17T10:41:03.065Z"
-    },
-    {
-      "display_name": "jole",
-      "challenges_solved": "17",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-17T10:56:38.699Z"
     },
     {
       "display_name": "Pzzaroo",
@@ -259,22 +271,10 @@
       "last_solved": "2020-12-18T14:13:05.774Z"
     },
     {
-      "display_name": "stigru",
-      "challenges_solved": "17",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-17T08:59:25.286Z"
-    },
-    {
       "display_name": "Franzefrekk",
       "challenges_solved": "17",
       "eggs_solved": "7",
       "last_solved": "2020-12-17T21:42:40.933Z"
-    },
-    {
-      "display_name": "halvis",
-      "challenges_solved": "17",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-17T15:06:44.378Z"
     },
     {
       "display_name": "Oldolo",
@@ -715,6 +715,12 @@
       "last_solved": "2020-12-17T17:34:15.622Z"
     },
     {
+      "display_name": "marcelwk",
+      "challenges_solved": "12",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-18T23:59:21.728Z"
+    },
+    {
       "display_name": "tomas",
       "challenges_solved": "12",
       "eggs_solved": "5",
@@ -847,12 +853,6 @@
       "last_solved": "2020-12-15T12:08:35.359Z"
     },
     {
-      "display_name": "marcelwk",
-      "challenges_solved": "11",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-16T11:11:54.059Z"
-    },
-    {
       "display_name": "Falken",
       "challenges_solved": "11",
       "eggs_solved": "5",
@@ -941,6 +941,12 @@
       "challenges_solved": "11",
       "eggs_solved": "4",
       "last_solved": "2020-12-17T01:39:41.866Z"
+    },
+    {
+      "display_name": "SK",
+      "challenges_solved": "11",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-18T23:30:50.238Z"
     },
     {
       "display_name": "Drangey",
@@ -1121,12 +1127,6 @@
       "challenges_solved": "10",
       "eggs_solved": "4",
       "last_solved": "2020-12-17T11:33:09.018Z"
-    },
-    {
-      "display_name": "SK",
-      "challenges_solved": "10",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-18T15:01:56.584Z"
     },
     {
       "display_name": "idol-renate",
@@ -3265,6 +3265,12 @@
       "last_solved": "2020-12-16T20:22:08.201Z"
     },
     {
+      "display_name": "Snilens far",
+      "challenges_solved": "4",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-18T23:05:06.001Z"
+    },
+    {
       "display_name": "benedicte",
       "challenges_solved": "4",
       "eggs_solved": "0",
@@ -3815,12 +3821,6 @@
       "challenges_solved": "3",
       "eggs_solved": "1",
       "last_solved": "2020-12-13T15:42:14.124Z"
-    },
-    {
-      "display_name": "Snilens far",
-      "challenges_solved": "3",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-18T11:42:25.928Z"
     },
     {
       "display_name": "sn33kz",
