@@ -313,6 +313,12 @@
       "last_solved": "2020-12-19T17:11:49.222Z"
     },
     {
+      "display_name": "zigkill",
+      "challenges_solved": "17",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-20T16:44:28.377Z"
+    },
+    {
       "display_name": "Oldolo",
       "challenges_solved": "17",
       "eggs_solved": "6",
@@ -347,12 +353,6 @@
       "challenges_solved": "16",
       "eggs_solved": "7",
       "last_solved": "2020-12-20T15:43:14.346Z"
-    },
-    {
-      "display_name": "zigkill",
-      "challenges_solved": "16",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-20T15:45:10.622Z"
     },
     {
       "display_name": "Betjent Eirik",
@@ -739,6 +739,12 @@
       "last_solved": "2020-12-20T13:40:22.614Z"
     },
     {
+      "display_name": "potetsos",
+      "challenges_solved": "12",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-20T16:01:16.379Z"
+    },
+    {
       "display_name": "Kaffemonster",
       "challenges_solved": "12",
       "eggs_solved": "5",
@@ -749,12 +755,6 @@
       "challenges_solved": "12",
       "eggs_solved": "5",
       "last_solved": "2020-12-18T15:43:50.624Z"
-    },
-    {
-      "display_name": "potetsos",
-      "challenges_solved": "12",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-20T15:49:11.104Z"
     },
     {
       "display_name": "🐐NorskFjellGeit🐐",
@@ -1003,6 +1003,12 @@
       "last_solved": "2020-12-20T15:58:11.805Z"
     },
     {
+      "display_name": "betjent1090",
+      "challenges_solved": "11",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-20T16:01:03.994Z"
+    },
+    {
       "display_name": "SondreNj",
       "challenges_solved": "11",
       "eggs_solved": "1",
@@ -1217,12 +1223,6 @@
       "challenges_solved": "10",
       "eggs_solved": "2",
       "last_solved": "2020-12-19T11:25:36.053Z"
-    },
-    {
-      "display_name": "betjent1090",
-      "challenges_solved": "10",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-19T15:28:46.072Z"
     },
     {
       "display_name": "NissePappa",
@@ -2131,6 +2131,12 @@
       "last_solved": "2020-12-19T23:50:12.417Z"
     },
     {
+      "display_name": "Snilens far",
+      "challenges_solved": "7",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-20T16:59:31.221Z"
+    },
+    {
       "display_name": "padanfain",
       "challenges_solved": "6",
       "eggs_solved": "4",
@@ -2411,12 +2417,6 @@
       "challenges_solved": "6",
       "eggs_solved": "1",
       "last_solved": "2020-12-19T21:47:06.047Z"
-    },
-    {
-      "display_name": "Snilens far",
-      "challenges_solved": "6",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-20T14:44:29.484Z"
     },
     {
       "display_name": "Yeet mcYeetface",
@@ -8705,6 +8705,12 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-20T14:32:38.900Z"
+    },
+    {
+      "display_name": "Balderdash",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-20T16:24:10.830Z"
     },
     {
       "display_name": "betjent2081",
