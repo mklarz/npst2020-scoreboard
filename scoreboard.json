@@ -79,10 +79,34 @@
       "last_solved": "2020-12-20T08:54:22.039Z"
     },
     {
-      "display_name": "betjent747",
-      "challenges_solved": "19",
+      "display_name": "wat",
+      "challenges_solved": "20",
       "eggs_solved": "10",
-      "last_solved": "2020-12-19T08:55:29.983Z"
+      "last_solved": "2020-12-20T09:00:24.369Z"
+    },
+    {
+      "display_name": "betjent747",
+      "challenges_solved": "20",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-20T09:03:04.019Z"
+    },
+    {
+      "display_name": "Pzzaroo",
+      "challenges_solved": "20",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-20T09:08:01.912Z"
+    },
+    {
+      "display_name": "✅ waperon",
+      "challenges_solved": "20",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-20T09:21:56.867Z"
+    },
+    {
+      "display_name": "kroi",
+      "challenges_solved": "20",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-20T09:55:55.403Z"
     },
     {
       "display_name": "smygulf",
@@ -145,18 +169,6 @@
       "last_solved": "2020-12-19T14:23:10.955Z"
     },
     {
-      "display_name": "wat",
-      "challenges_solved": "19",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-19T15:28:03.477Z"
-    },
-    {
-      "display_name": "Pzzaroo",
-      "challenges_solved": "19",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-19T15:36:03.423Z"
-    },
-    {
       "display_name": "jole",
       "challenges_solved": "19",
       "eggs_solved": "10",
@@ -169,12 +181,6 @@
       "last_solved": "2020-12-19T18:34:11.451Z"
     },
     {
-      "display_name": "✅ waperon",
-      "challenges_solved": "19",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-19T19:21:58.210Z"
-    },
-    {
       "display_name": "bjornr",
       "challenges_solved": "19",
       "eggs_solved": "10",
@@ -185,6 +191,12 @@
       "challenges_solved": "19",
       "eggs_solved": "10",
       "last_solved": "2020-12-19T22:24:21.158Z"
+    },
+    {
+      "display_name": "S Claus",
+      "challenges_solved": "19",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-20T09:22:16.394Z"
     },
     {
       "display_name": "zup",
@@ -223,22 +235,10 @@
       "last_solved": "2020-12-19T18:11:00.743Z"
     },
     {
-      "display_name": "kroi",
-      "challenges_solved": "18",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-18T10:37:55.739Z"
-    },
-    {
       "display_name": "enfo 👈",
       "challenges_solved": "18",
       "eggs_solved": "10",
       "last_solved": "2020-12-18T12:52:45.581Z"
-    },
-    {
-      "display_name": "S Claus",
-      "challenges_solved": "18",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-19T17:57:31.237Z"
     },
     {
       "display_name": "enshar",
@@ -289,6 +289,12 @@
       "last_solved": "2020-12-18T14:13:05.774Z"
     },
     {
+      "display_name": "mats",
+      "challenges_solved": "17",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-20T09:59:42.434Z"
+    },
+    {
       "display_name": "Franzefrekk",
       "challenges_solved": "17",
       "eggs_solved": "7",
@@ -323,12 +329,6 @@
       "challenges_solved": "16",
       "eggs_solved": "8",
       "last_solved": "2020-12-16T22:44:48.768Z"
-    },
-    {
-      "display_name": "mats",
-      "challenges_solved": "16",
-      "eggs_solved": "8",
-      "last_solved": "2020-12-18T11:25:14.934Z"
     },
     {
       "display_name": "SignalNoise",
@@ -655,6 +655,12 @@
       "last_solved": "2020-12-17T12:47:16.075Z"
     },
     {
+      "display_name": "SK",
+      "challenges_solved": "13",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-20T09:55:08.831Z"
+    },
+    {
       "display_name": "BokMonster",
       "challenges_solved": "13",
       "eggs_solved": "3",
@@ -755,12 +761,6 @@
       "challenges_solved": "12",
       "eggs_solved": "4",
       "last_solved": "2020-12-16T15:38:42.383Z"
-    },
-    {
-      "display_name": "SK",
-      "challenges_solved": "12",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-19T10:08:30.220Z"
     },
     {
       "display_name": "maritio_o",
