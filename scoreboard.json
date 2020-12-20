@@ -109,6 +109,24 @@
       "last_solved": "2020-12-20T09:55:55.403Z"
     },
     {
+      "display_name": "ciphr",
+      "challenges_solved": "20",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-20T10:31:45.587Z"
+    },
+    {
+      "display_name": "vcpo",
+      "challenges_solved": "20",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-20T10:39:07.406Z"
+    },
+    {
+      "display_name": "halvis",
+      "challenges_solved": "20",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-20T10:17:10.975Z"
+    },
+    {
       "display_name": "smygulf",
       "challenges_solved": "19",
       "eggs_solved": "10",
@@ -125,12 +143,6 @@
       "challenges_solved": "19",
       "eggs_solved": "10",
       "last_solved": "2020-12-19T10:08:55.243Z"
-    },
-    {
-      "display_name": "vcpo",
-      "challenges_solved": "19",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-19T11:36:54.862Z"
     },
     {
       "display_name": "fredrik",
@@ -155,12 +167,6 @@
       "challenges_solved": "19",
       "eggs_solved": "10",
       "last_solved": "2020-12-19T13:40:32.130Z"
-    },
-    {
-      "display_name": "ciphr",
-      "challenges_solved": "19",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-19T13:56:54.674Z"
     },
     {
       "display_name": "SlalomKvark",
@@ -221,12 +227,6 @@
       "challenges_solved": "19",
       "eggs_solved": "7",
       "last_solved": "2020-12-19T14:49:08.103Z"
-    },
-    {
-      "display_name": "halvis",
-      "challenges_solved": "19",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-19T12:41:29.767Z"
     },
     {
       "display_name": "Alexmackzie",
@@ -643,6 +643,12 @@
       "last_solved": "2020-12-17T18:52:55.022Z"
     },
     {
+      "display_name": "SK",
+      "challenges_solved": "13",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-20T10:55:24.280Z"
+    },
+    {
       "display_name": "m",
       "challenges_solved": "13",
       "eggs_solved": "4",
@@ -653,12 +659,6 @@
       "challenges_solved": "13",
       "eggs_solved": "4",
       "last_solved": "2020-12-17T12:47:16.075Z"
-    },
-    {
-      "display_name": "SK",
-      "challenges_solved": "13",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-20T09:55:08.831Z"
     },
     {
       "display_name": "BokMonster",
