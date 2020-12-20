@@ -151,34 +151,34 @@
       "last_solved": "2020-12-20T12:38:40.162Z"
     },
     {
+      "display_name": "jo_k_er",
+      "challenges_solved": "20",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-20T13:10:40.231Z"
+    },
+    {
+      "display_name": "SlalomKvark",
+      "challenges_solved": "20",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-20T13:31:53.958Z"
+    },
+    {
+      "display_name": "Arkanor",
+      "challenges_solved": "20",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-20T13:49:51.772Z"
+    },
+    {
       "display_name": "halvis",
       "challenges_solved": "20",
       "eggs_solved": "7",
       "last_solved": "2020-12-20T12:16:14.432Z"
     },
     {
-      "display_name": "jo_k_er",
-      "challenges_solved": "19",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-19T09:40:01.863Z"
-    },
-    {
       "display_name": "fredrik",
       "challenges_solved": "19",
       "eggs_solved": "10",
       "last_solved": "2020-12-19T11:54:56.535Z"
-    },
-    {
-      "display_name": "Arkanor",
-      "challenges_solved": "19",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-19T13:34:55.127Z"
-    },
-    {
-      "display_name": "SlalomKvark",
-      "challenges_solved": "19",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-19T14:23:10.955Z"
     },
     {
       "display_name": "jole",
@@ -283,6 +283,12 @@
       "last_solved": "2020-12-20T11:17:52.858Z"
     },
     {
+      "display_name": "Antiwaxxers2021",
+      "challenges_solved": "17",
+      "eggs_solved": "9",
+      "last_solved": "2020-12-20T13:42:20.880Z"
+    },
+    {
       "display_name": "bitBug",
       "challenges_solved": "17",
       "eggs_solved": "8",
@@ -317,12 +323,6 @@
       "challenges_solved": "17",
       "eggs_solved": "6",
       "last_solved": "2020-12-18T08:39:56.050Z"
-    },
-    {
-      "display_name": "Antiwaxxers2021",
-      "challenges_solved": "16",
-      "eggs_solved": "9",
-      "last_solved": "2020-12-19T10:37:11.452Z"
     },
     {
       "display_name": "TorErik",
@@ -733,6 +733,12 @@
       "last_solved": "2020-12-17T17:34:15.622Z"
     },
     {
+      "display_name": "tDelDel",
+      "challenges_solved": "12",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-20T13:40:22.614Z"
+    },
+    {
       "display_name": "Kaffemonster",
       "challenges_solved": "12",
       "eggs_solved": "5",
@@ -767,6 +773,12 @@
       "challenges_solved": "12",
       "eggs_solved": "4",
       "last_solved": "2020-12-20T08:03:41.033Z"
+    },
+    {
+      "display_name": "SPST-agent",
+      "challenges_solved": "12",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-20T13:14:53.647Z"
     },
     {
       "display_name": "betjent2525",
@@ -829,12 +841,6 @@
       "last_solved": "2020-12-11T11:12:15.655Z"
     },
     {
-      "display_name": "tDelDel",
-      "challenges_solved": "11",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-11T19:07:48.172Z"
-    },
-    {
       "display_name": "Thoslebeast",
       "challenges_solved": "11",
       "eggs_solved": "6",
@@ -863,6 +869,12 @@
       "challenges_solved": "11",
       "eggs_solved": "6",
       "last_solved": "2020-12-15T12:08:35.359Z"
+    },
+    {
+      "display_name": "test",
+      "challenges_solved": "11",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-20T13:15:01.079Z"
     },
     {
       "display_name": "Falken",
@@ -979,12 +991,6 @@
       "last_solved": "2020-12-11T16:30:27.646Z"
     },
     {
-      "display_name": "SPST-agent",
-      "challenges_solved": "11",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-11T21:04:26.790Z"
-    },
-    {
       "display_name": "zanmat0",
       "challenges_solved": "11",
       "eggs_solved": "3",
@@ -1043,12 +1049,6 @@
       "challenges_solved": "10",
       "eggs_solved": "6",
       "last_solved": "2020-12-11T08:13:01.669Z"
-    },
-    {
-      "display_name": "test",
-      "challenges_solved": "10",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-15T13:50:37.730Z"
     },
     {
       "display_name": "Tjomi",
@@ -1471,6 +1471,12 @@
       "last_solved": "2020-12-19T17:07:59.845Z"
     },
     {
+      "display_name": "sprut",
+      "challenges_solved": "9",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-20T13:46:54.006Z"
+    },
+    {
       "display_name": "zaker",
       "challenges_solved": "9",
       "eggs_solved": "0",
@@ -1775,12 +1781,6 @@
       "challenges_solved": "8",
       "eggs_solved": "1",
       "last_solved": "2020-12-18T13:41:56.732Z"
-    },
-    {
-      "display_name": "sprut",
-      "challenges_solved": "8",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-19T22:10:36.109Z"
     },
     {
       "display_name": "Fax",
@@ -3493,6 +3493,12 @@
       "last_solved": "2020-12-18T19:57:21.324Z"
     },
     {
+      "display_name": "bensinober",
+      "challenges_solved": "4",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-20T13:01:15.306Z"
+    },
+    {
       "display_name": "Eljardo",
       "challenges_solved": "3",
       "eggs_solved": "2",
@@ -3869,6 +3875,12 @@
       "challenges_solved": "3",
       "eggs_solved": "1",
       "last_solved": "2020-12-19T15:32:06.986Z"
+    },
+    {
+      "display_name": "wasd",
+      "challenges_solved": "3",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-20T13:06:59.372Z"
     },
     {
       "display_name": "aco",
@@ -4645,12 +4657,6 @@
       "last_solved": "2020-12-18T14:31:45.609Z"
     },
     {
-      "display_name": "bensinober",
-      "challenges_solved": "3",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-19T02:32:05.793Z"
-    },
-    {
       "display_name": "KarsE",
       "challenges_solved": "3",
       "eggs_solved": "0",
@@ -4817,12 +4823,6 @@
       "challenges_solved": "2",
       "eggs_solved": "1",
       "last_solved": "2020-12-16T14:44:50.627Z"
-    },
-    {
-      "display_name": "wasd",
-      "challenges_solved": "2",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-17T22:02:09.944Z"
     },
     {
       "display_name": "opplegg",
