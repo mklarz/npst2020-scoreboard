@@ -181,6 +181,12 @@
       "last_solved": "2020-12-20T17:24:06.341Z"
     },
     {
+      "display_name": "S Claus",
+      "challenges_solved": "20",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-20T18:02:33.781Z"
+    },
+    {
       "display_name": "zup",
       "challenges_solved": "20",
       "eggs_solved": "9",
@@ -221,12 +227,6 @@
       "challenges_solved": "19",
       "eggs_solved": "10",
       "last_solved": "2020-12-19T22:24:21.158Z"
-    },
-    {
-      "display_name": "S Claus",
-      "challenges_solved": "19",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-20T09:22:16.394Z"
     },
     {
       "display_name": "SolanGundersen",
@@ -787,6 +787,18 @@
       "last_solved": "2020-12-20T13:14:53.647Z"
     },
     {
+      "display_name": "SimenBakken",
+      "challenges_solved": "12",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-20T18:31:31.450Z"
+    },
+    {
+      "display_name": "betjent1090",
+      "challenges_solved": "12",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-20T18:32:22.399Z"
+    },
+    {
       "display_name": "betjent2525",
       "challenges_solved": "12",
       "eggs_solved": "1",
@@ -995,18 +1007,6 @@
       "challenges_solved": "11",
       "eggs_solved": "3",
       "last_solved": "2020-12-16T03:25:06.758Z"
-    },
-    {
-      "display_name": "SimenBakken",
-      "challenges_solved": "11",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-20T15:58:11.805Z"
-    },
-    {
-      "display_name": "betjent1090",
-      "challenges_solved": "11",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-20T16:01:03.994Z"
     },
     {
       "display_name": "SondreNj",
