@@ -187,6 +187,12 @@
       "last_solved": "2020-12-20T18:02:33.781Z"
     },
     {
+      "display_name": "eriknn",
+      "challenges_solved": "20",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-20T21:51:49.189Z"
+    },
+    {
       "display_name": "zup",
       "challenges_solved": "20",
       "eggs_solved": "9",
@@ -223,12 +229,6 @@
       "last_solved": "2020-12-19T11:54:56.535Z"
     },
     {
-      "display_name": "eriknn",
-      "challenges_solved": "19",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-19T22:24:21.158Z"
-    },
-    {
       "display_name": "SolanGundersen",
       "challenges_solved": "19",
       "eggs_solved": "9",
@@ -259,6 +259,12 @@
       "last_solved": "2020-12-18T22:26:04.668Z"
     },
     {
+      "display_name": "Antiwaxxers2021",
+      "challenges_solved": "18",
+      "eggs_solved": "9",
+      "last_solved": "2020-12-20T21:15:12.712Z"
+    },
+    {
       "display_name": "chronos",
       "challenges_solved": "18",
       "eggs_solved": "8",
@@ -283,10 +289,10 @@
       "last_solved": "2020-12-20T11:17:52.858Z"
     },
     {
-      "display_name": "Antiwaxxers2021",
-      "challenges_solved": "17",
-      "eggs_solved": "9",
-      "last_solved": "2020-12-20T13:42:20.880Z"
+      "display_name": "zigkill",
+      "challenges_solved": "18",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-20T21:22:23.291Z"
     },
     {
       "display_name": "bitBug",
@@ -311,12 +317,6 @@
       "challenges_solved": "17",
       "eggs_solved": "7",
       "last_solved": "2020-12-19T17:11:49.222Z"
-    },
-    {
-      "display_name": "zigkill",
-      "challenges_solved": "17",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-20T16:44:28.377Z"
     },
     {
       "display_name": "Oldolo",
@@ -745,6 +745,12 @@
       "last_solved": "2020-12-20T16:01:16.379Z"
     },
     {
+      "display_name": "mikko80",
+      "challenges_solved": "12",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-20T21:13:45.207Z"
+    },
+    {
       "display_name": "Kaffemonster",
       "challenges_solved": "12",
       "eggs_solved": "5",
@@ -883,12 +889,6 @@
       "last_solved": "2020-12-13T08:11:35.245Z"
     },
     {
-      "display_name": "mikko80",
-      "challenges_solved": "11",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-15T12:08:35.359Z"
-    },
-    {
       "display_name": "test",
       "challenges_solved": "11",
       "eggs_solved": "6",
@@ -989,6 +989,12 @@
       "challenges_solved": "11",
       "eggs_solved": "4",
       "last_solved": "2020-12-17T01:39:41.866Z"
+    },
+    {
+      "display_name": "idol-renate",
+      "challenges_solved": "11",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-20T21:23:53.852Z"
     },
     {
       "display_name": "Drangey",
@@ -1163,12 +1169,6 @@
       "challenges_solved": "10",
       "eggs_solved": "4",
       "last_solved": "2020-12-17T11:33:09.018Z"
-    },
-    {
-      "display_name": "idol-renate",
-      "challenges_solved": "10",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-18T22:06:37.941Z"
     },
     {
       "display_name": "GoGoLasagna",
@@ -2311,6 +2311,12 @@
       "last_solved": "2020-12-16T14:57:30.709Z"
     },
     {
+      "display_name": "betjent1852",
+      "challenges_solved": "6",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-20T21:07:29.313Z"
+    },
+    {
       "display_name": "🎅",
       "challenges_solved": "6",
       "eggs_solved": "1",
@@ -2591,12 +2597,6 @@
       "challenges_solved": "5",
       "eggs_solved": "2",
       "last_solved": "2020-12-17T01:06:39.770Z"
-    },
-    {
-      "display_name": "betjent1852",
-      "challenges_solved": "5",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-20T20:36:18.623Z"
     },
     {
       "display_name": "nc",
@@ -8717,6 +8717,12 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-20T16:24:10.830Z"
+    },
+    {
+      "display_name": "båris",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-20T21:11:16.183Z"
     },
     {
       "display_name": "betjent2081",
