@@ -577,6 +577,12 @@
       "last_solved": "2020-12-16T16:56:32.557Z"
     },
     {
+      "display_name": "BokMonster",
+      "challenges_solved": "14",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-21T03:10:29.664Z"
+    },
+    {
       "display_name": "DaddelFantomet",
       "challenges_solved": "13",
       "eggs_solved": "9",
@@ -665,12 +671,6 @@
       "challenges_solved": "13",
       "eggs_solved": "4",
       "last_solved": "2020-12-17T12:47:16.075Z"
-    },
-    {
-      "display_name": "BokMonster",
-      "challenges_solved": "13",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-16T14:33:11.385Z"
     },
     {
       "display_name": "waffle",
