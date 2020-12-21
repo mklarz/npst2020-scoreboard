@@ -25,6 +25,24 @@
       "last_solved": "2020-12-21T08:40:51.691Z"
     },
     {
+      "display_name": "StateOfLimbo",
+      "challenges_solved": "21",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-21T09:06:14.251Z"
+    },
+    {
+      "display_name": "bjornr",
+      "challenges_solved": "21",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-21T09:21:45.041Z"
+    },
+    {
+      "display_name": "halvis",
+      "challenges_solved": "21",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-21T09:57:36.476Z"
+    },
+    {
       "display_name": "kek🍔",
       "challenges_solved": "20",
       "eggs_solved": "10",
@@ -59,12 +77,6 @@
       "challenges_solved": "20",
       "eggs_solved": "10",
       "last_solved": "2020-12-20T07:33:54.077Z"
-    },
-    {
-      "display_name": "StateOfLimbo",
-      "challenges_solved": "20",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-20T07:49:09.704Z"
     },
     {
       "display_name": "FairlyMagical",
@@ -145,12 +157,6 @@
       "last_solved": "2020-12-20T12:36:52.937Z"
     },
     {
-      "display_name": "bjornr",
-      "challenges_solved": "20",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-20T12:38:40.162Z"
-    },
-    {
       "display_name": "jo_k_er",
       "challenges_solved": "20",
       "eggs_solved": "10",
@@ -209,12 +215,6 @@
       "challenges_solved": "20",
       "eggs_solved": "9",
       "last_solved": "2020-12-20T14:38:34.690Z"
-    },
-    {
-      "display_name": "halvis",
-      "challenges_solved": "20",
-      "eggs_solved": "8",
-      "last_solved": "2020-12-21T02:16:43.582Z"
     },
     {
       "display_name": "stigru",
@@ -295,6 +295,12 @@
       "last_solved": "2020-12-20T21:22:23.291Z"
     },
     {
+      "display_name": "ztj0x",
+      "challenges_solved": "18",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-21T09:48:55.465Z"
+    },
+    {
       "display_name": "bitBug",
       "challenges_solved": "17",
       "eggs_solved": "8",
@@ -343,12 +349,6 @@
       "last_solved": "2020-12-16T23:07:29.214Z"
     },
     {
-      "display_name": "ztj0x",
-      "challenges_solved": "16",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-17T07:57:55.968Z"
-    },
-    {
       "display_name": "Alias",
       "challenges_solved": "16",
       "eggs_solved": "7",
@@ -389,6 +389,12 @@
       "challenges_solved": "16",
       "eggs_solved": "6",
       "last_solved": "2020-12-18T10:27:44.158Z"
+    },
+    {
+      "display_name": "betjent732",
+      "challenges_solved": "16",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-21T09:09:26.387Z"
     },
     {
       "display_name": "baconwaffle",
@@ -443,12 +449,6 @@
       "challenges_solved": "15",
       "eggs_solved": "6",
       "last_solved": "2020-12-17T19:47:11.422Z"
-    },
-    {
-      "display_name": "betjent732",
-      "challenges_solved": "15",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-20T20:36:47.112Z"
     },
     {
       "display_name": "skyranger",
@@ -763,6 +763,12 @@
       "last_solved": "2020-12-18T15:43:50.624Z"
     },
     {
+      "display_name": "BjarneBetjenten",
+      "challenges_solved": "12",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-21T09:35:29.240Z"
+    },
+    {
       "display_name": "🐐NorskFjellGeit🐐",
       "challenges_solved": "12",
       "eggs_solved": "4",
@@ -923,12 +929,6 @@
       "challenges_solved": "11",
       "eggs_solved": "5",
       "last_solved": "2020-12-15T13:26:52.423Z"
-    },
-    {
-      "display_name": "BjarneBetjenten",
-      "challenges_solved": "11",
-      "eggs_solved": "5",
-      "last_solved": "2020-12-16T14:12:01.913Z"
     },
     {
       "display_name": "bekjent1337",
@@ -2599,6 +2599,12 @@
       "last_solved": "2020-12-17T01:06:39.770Z"
     },
     {
+      "display_name": "wasd",
+      "challenges_solved": "5",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-21T09:08:31.541Z"
+    },
+    {
       "display_name": "nc",
       "challenges_solved": "5",
       "eggs_solved": "1",
@@ -2885,12 +2891,6 @@
       "challenges_solved": "5",
       "eggs_solved": "1",
       "last_solved": "2020-12-20T22:35:08.255Z"
-    },
-    {
-      "display_name": "wasd",
-      "challenges_solved": "5",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-21T08:43:42.351Z"
     },
     {
       "display_name": "Whiptail Wurm",
@@ -3323,6 +3323,12 @@
       "challenges_solved": "4",
       "eggs_solved": "1",
       "last_solved": "2020-12-19T16:35:14.829Z"
+    },
+    {
+      "display_name": "Balderdash",
+      "challenges_solved": "4",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-21T09:50:15.781Z"
     },
     {
       "display_name": "benedicte",
@@ -5723,12 +5729,6 @@
       "challenges_solved": "2",
       "eggs_solved": "0",
       "last_solved": "2020-12-20T20:57:12.693Z"
-    },
-    {
-      "display_name": "Balderdash",
-      "challenges_solved": "2",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-20T22:26:31.017Z"
     },
     {
       "display_name": "Alv1",
@@ -8741,6 +8741,12 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-21T08:27:51.302Z"
+    },
+    {
+      "display_name": "bettong",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-21T09:15:57.681Z"
     },
     {
       "display_name": "betjent2081",
