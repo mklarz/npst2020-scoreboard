@@ -211,6 +211,12 @@
       "last_solved": "2020-12-21T22:05:36.161Z"
     },
     {
+      "display_name": "SolanGundersen",
+      "challenges_solved": "21",
+      "eggs_solved": "9",
+      "last_solved": "2020-12-21T23:55:00.169Z"
+    },
+    {
       "display_name": "halvis",
       "challenges_solved": "21",
       "eggs_solved": "8",
@@ -239,12 +245,6 @@
       "challenges_solved": "20",
       "eggs_solved": "10",
       "last_solved": "2020-12-20T21:51:49.189Z"
-    },
-    {
-      "display_name": "SolanGundersen",
-      "challenges_solved": "20",
-      "eggs_solved": "9",
-      "last_solved": "2020-12-21T13:02:53.380Z"
     },
     {
       "display_name": "kalmakka",
@@ -373,6 +373,12 @@
       "last_solved": "2020-12-21T13:55:13.707Z"
     },
     {
+      "display_name": "henrikhorluck",
+      "challenges_solved": "16",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-21T23:18:30.197Z"
+    },
+    {
       "display_name": "Betjent Eirik",
       "challenges_solved": "16",
       "eggs_solved": "6",
@@ -455,12 +461,6 @@
       "challenges_solved": "15",
       "eggs_solved": "7",
       "last_solved": "2020-12-17T18:30:45.746Z"
-    },
-    {
-      "display_name": "henrikhorluck",
-      "challenges_solved": "15",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-21T13:47:37.498Z"
     },
     {
       "display_name": "cybernizzen",
@@ -2155,6 +2155,12 @@
       "last_solved": "2020-12-20T16:59:31.221Z"
     },
     {
+      "display_name": "ragev",
+      "challenges_solved": "7",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-21T23:36:13.448Z"
+    },
+    {
       "display_name": "aliasbalias",
       "challenges_solved": "7",
       "eggs_solved": "0",
@@ -2339,6 +2345,12 @@
       "challenges_solved": "6",
       "eggs_solved": "2",
       "last_solved": "2020-12-20T21:07:29.313Z"
+    },
+    {
+      "display_name": "opplegg",
+      "challenges_solved": "6",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-21T23:32:24.530Z"
     },
     {
       "display_name": "🎅",
@@ -2911,12 +2923,6 @@
       "last_solved": "2020-12-20T22:35:08.255Z"
     },
     {
-      "display_name": "ragev",
-      "challenges_solved": "5",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-21T22:25:44.788Z"
-    },
-    {
       "display_name": "Whiptail Wurm",
       "challenges_solved": "5",
       "eggs_solved": "0",
@@ -3041,12 +3047,6 @@
       "challenges_solved": "4",
       "eggs_solved": "2",
       "last_solved": "2020-12-07T14:13:08.364Z"
-    },
-    {
-      "display_name": "opplegg",
-      "challenges_solved": "4",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-21T22:23:02.279Z"
     },
     {
       "display_name": "betjent420",
