@@ -1,16 +1,40 @@
 {
   "result": [
     {
+      "display_name": "unblvr",
+      "challenges_solved": "22",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-22T06:06:55.819Z"
+    },
+    {
+      "display_name": "vcpo",
+      "challenges_solved": "22",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-22T06:39:01.833Z"
+    },
+    {
+      "display_name": "jo_k_er",
+      "challenges_solved": "22",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-22T06:42:46.261Z"
+    },
+    {
+      "display_name": "0x1",
+      "challenges_solved": "22",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-22T06:50:28.418Z"
+    },
+    {
+      "display_name": "Røllik Münch",
+      "challenges_solved": "22",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-22T06:50:53.402Z"
+    },
+    {
       "display_name": "Sithis",
       "challenges_solved": "21",
       "eggs_solved": "10",
       "last_solved": "2020-12-21T07:10:18.961Z"
-    },
-    {
-      "display_name": "unblvr",
-      "challenges_solved": "21",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-21T07:13:10.823Z"
     },
     {
       "display_name": "Tivec",
@@ -67,24 +91,6 @@
       "last_solved": "2020-12-21T10:52:05.769Z"
     },
     {
-      "display_name": "jo_k_er",
-      "challenges_solved": "21",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-21T11:20:16.694Z"
-    },
-    {
-      "display_name": "0x1",
-      "challenges_solved": "21",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-21T11:46:32.071Z"
-    },
-    {
-      "display_name": "Røllik Münch",
-      "challenges_solved": "21",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-21T11:47:02.549Z"
-    },
-    {
       "display_name": "wat",
       "challenges_solved": "21",
       "eggs_solved": "10",
@@ -101,12 +107,6 @@
       "challenges_solved": "21",
       "eggs_solved": "10",
       "last_solved": "2020-12-21T12:02:38.118Z"
-    },
-    {
-      "display_name": "vcpo",
-      "challenges_solved": "21",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-21T12:16:05.598Z"
     },
     {
       "display_name": "🛷🛷🛷🛷4life",
