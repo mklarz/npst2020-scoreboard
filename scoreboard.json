@@ -199,6 +199,12 @@
       "last_solved": "2020-12-21T20:03:03.968Z"
     },
     {
+      "display_name": "eriknn",
+      "challenges_solved": "21",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-22T00:37:02.880Z"
+    },
+    {
       "display_name": "zup",
       "challenges_solved": "21",
       "eggs_solved": "9",
@@ -239,12 +245,6 @@
       "challenges_solved": "21",
       "eggs_solved": "6",
       "last_solved": "2020-12-21T19:46:56.769Z"
-    },
-    {
-      "display_name": "eriknn",
-      "challenges_solved": "20",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-20T21:51:49.189Z"
     },
     {
       "display_name": "kalmakka",
@@ -307,6 +307,12 @@
       "last_solved": "2020-12-21T21:10:07.121Z"
     },
     {
+      "display_name": "SignalNoise",
+      "challenges_solved": "18",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-22T00:02:46.888Z"
+    },
+    {
       "display_name": "bitBug",
       "challenges_solved": "17",
       "eggs_solved": "8",
@@ -335,12 +341,6 @@
       "challenges_solved": "17",
       "eggs_solved": "7",
       "last_solved": "2020-12-19T17:11:49.222Z"
-    },
-    {
-      "display_name": "SignalNoise",
-      "challenges_solved": "17",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-21T19:23:05.087Z"
     },
     {
       "display_name": "Oldolo",
@@ -1783,6 +1783,12 @@
       "last_solved": "2020-12-21T18:57:52.276Z"
     },
     {
+      "display_name": "matematikern",
+      "challenges_solved": "8",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-22T00:09:23.749Z"
+    },
+    {
       "display_name": "BjarneBetjent",
       "challenges_solved": "8",
       "eggs_solved": "1",
@@ -1799,6 +1805,12 @@
       "challenges_solved": "8",
       "eggs_solved": "1",
       "last_solved": "2020-12-18T13:41:56.732Z"
+    },
+    {
+      "display_name": "ragev",
+      "challenges_solved": "8",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-22T00:41:23.396Z"
     },
     {
       "display_name": "Fax",
@@ -2065,10 +2077,10 @@
       "last_solved": "2020-12-21T11:23:59.082Z"
     },
     {
-      "display_name": "matematikern",
+      "display_name": "opplegg",
       "challenges_solved": "7",
       "eggs_solved": "2",
-      "last_solved": "2020-12-21T21:53:18.027Z"
+      "last_solved": "2020-12-22T00:38:18.077Z"
     },
     {
       "display_name": "betjent2018",
@@ -2153,12 +2165,6 @@
       "challenges_solved": "7",
       "eggs_solved": "1",
       "last_solved": "2020-12-20T16:59:31.221Z"
-    },
-    {
-      "display_name": "ragev",
-      "challenges_solved": "7",
-      "eggs_solved": "1",
-      "last_solved": "2020-12-21T23:36:13.448Z"
     },
     {
       "display_name": "aliasbalias",
@@ -2345,12 +2351,6 @@
       "challenges_solved": "6",
       "eggs_solved": "2",
       "last_solved": "2020-12-20T21:07:29.313Z"
-    },
-    {
-      "display_name": "opplegg",
-      "challenges_solved": "6",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-21T23:32:24.530Z"
     },
     {
       "display_name": "🎅",
