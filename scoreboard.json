@@ -193,10 +193,16 @@
       "last_solved": "2020-12-23T00:53:39.180Z"
     },
     {
+      "display_name": "jole",
+      "challenges_solved": "22",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T01:26:34.373Z"
+    },
+    {
       "display_name": "zup",
       "challenges_solved": "22",
-      "eggs_solved": "9",
-      "last_solved": "2020-12-22T09:46:33.220Z"
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T01:31:01.231Z"
     },
     {
       "display_name": "SolanGundersen",
@@ -233,12 +239,6 @@
       "challenges_solved": "21",
       "eggs_solved": "10",
       "last_solved": "2020-12-21T17:26:52.171Z"
-    },
-    {
-      "display_name": "jole",
-      "challenges_solved": "21",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-21T19:29:44.176Z"
     },
     {
       "display_name": "betjent747",
@@ -475,6 +475,12 @@
       "last_solved": "2020-12-21T16:01:18.047Z"
     },
     {
+      "display_name": "marcelgs",
+      "challenges_solved": "15",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-23T01:43:01.050Z"
+    },
+    {
       "display_name": "betjent853",
       "challenges_solved": "15",
       "eggs_solved": "6",
@@ -557,12 +563,6 @@
       "challenges_solved": "14",
       "eggs_solved": "7",
       "last_solved": "2020-12-18T16:42:46.556Z"
-    },
-    {
-      "display_name": "marcelgs",
-      "challenges_solved": "14",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-22T21:22:12.582Z"
     },
     {
       "display_name": "Chr1st1an",
