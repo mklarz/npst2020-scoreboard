@@ -175,6 +175,12 @@
       "last_solved": "2020-12-23T13:32:09.984Z"
     },
     {
+      "display_name": "vcpo",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T16:42:03.942Z"
+    },
+    {
       "display_name": "clorin",
       "challenges_solved": "23",
       "eggs_solved": "8",
@@ -185,12 +191,6 @@
       "challenges_solved": "23",
       "eggs_solved": "8",
       "last_solved": "2020-12-23T09:59:14.390Z"
-    },
-    {
-      "display_name": "vcpo",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T06:39:01.833Z"
     },
     {
       "display_name": "fredrik",
@@ -379,6 +379,12 @@
       "last_solved": "2020-12-23T14:20:51.344Z"
     },
     {
+      "display_name": "marcelgs",
+      "challenges_solved": "17",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-23T16:28:17.013Z"
+    },
+    {
       "display_name": "andreaspedersen",
       "challenges_solved": "17",
       "eggs_solved": "6",
@@ -407,12 +413,6 @@
       "challenges_solved": "16",
       "eggs_solved": "7",
       "last_solved": "2020-12-20T15:43:14.346Z"
-    },
-    {
-      "display_name": "marcelgs",
-      "challenges_solved": "16",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-23T12:37:40.659Z"
     },
     {
       "display_name": "Betjent Eirik",
@@ -2095,6 +2095,12 @@
       "last_solved": "2020-12-22T18:48:25.936Z"
     },
     {
+      "display_name": "betjent2760",
+      "challenges_solved": "7",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-23T16:56:56.990Z"
+    },
+    {
       "display_name": "betjent2018",
       "challenges_solved": "7",
       "eggs_solved": "1",
@@ -2177,12 +2183,6 @@
       "challenges_solved": "7",
       "eggs_solved": "0",
       "last_solved": "2020-12-21T17:08:40.272Z"
-    },
-    {
-      "display_name": "betjent2760",
-      "challenges_solved": "7",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-23T15:35:30.207Z"
     },
     {
       "display_name": "padanfain",
