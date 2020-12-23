@@ -67,16 +67,40 @@
       "last_solved": "2020-12-23T07:46:22.208Z"
     },
     {
+      "display_name": "bjornr",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T08:01:00.720Z"
+    },
+    {
+      "display_name": "Sithis",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T08:08:52.494Z"
+    },
+    {
+      "display_name": "unblvr",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T08:26:05.278Z"
+    },
+    {
+      "display_name": "pingu",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T08:32:36.817Z"
+    },
+    {
+      "display_name": "julebokk",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T08:33:24.921Z"
+    },
+    {
       "display_name": "clorin",
       "challenges_solved": "23",
       "eggs_solved": "8",
       "last_solved": "2020-12-23T06:31:20.224Z"
-    },
-    {
-      "display_name": "unblvr",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T06:06:55.819Z"
     },
     {
       "display_name": "vcpo",
@@ -89,24 +113,6 @@
       "challenges_solved": "22",
       "eggs_solved": "10",
       "last_solved": "2020-12-22T07:24:54.893Z"
-    },
-    {
-      "display_name": "julebokk",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T08:04:25.952Z"
-    },
-    {
-      "display_name": "Sithis",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T08:12:04.617Z"
-    },
-    {
-      "display_name": "bjornr",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T08:16:41.344Z"
     },
     {
       "display_name": "Arkanor",
@@ -143,12 +149,6 @@
       "challenges_solved": "22",
       "eggs_solved": "10",
       "last_solved": "2020-12-22T10:34:46.279Z"
-    },
-    {
-      "display_name": "pingu",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T10:37:15.196Z"
     },
     {
       "display_name": "kroi",
