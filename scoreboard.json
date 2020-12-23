@@ -1,6 +1,54 @@
 {
   "result": [
     {
+      "display_name": "jo_k_er",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T06:18:58.097Z"
+    },
+    {
+      "display_name": "0x1",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T06:30:00.803Z"
+    },
+    {
+      "display_name": "Røllik Münch",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T06:30:19.858Z"
+    },
+    {
+      "display_name": "SlalomKvark",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T06:37:38.716Z"
+    },
+    {
+      "display_name": "Tivec",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T06:40:34.932Z"
+    },
+    {
+      "display_name": "StateOfLimbo",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T06:47:19.352Z"
+    },
+    {
+      "display_name": "FairlyMagical",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T06:58:06.347Z"
+    },
+    {
+      "display_name": "clorin",
+      "challenges_solved": "23",
+      "eggs_solved": "8",
+      "last_solved": "2020-12-23T06:31:20.224Z"
+    },
+    {
       "display_name": "unblvr",
       "challenges_solved": "22",
       "eggs_solved": "10",
@@ -13,24 +61,6 @@
       "last_solved": "2020-12-22T06:39:01.833Z"
     },
     {
-      "display_name": "jo_k_er",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T06:42:46.261Z"
-    },
-    {
-      "display_name": "0x1",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T06:50:28.418Z"
-    },
-    {
-      "display_name": "Røllik Münch",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T06:50:53.402Z"
-    },
-    {
       "display_name": "kek🍔",
       "challenges_solved": "22",
       "eggs_solved": "10",
@@ -41,12 +71,6 @@
       "challenges_solved": "22",
       "eggs_solved": "10",
       "last_solved": "2020-12-22T07:37:05.485Z"
-    },
-    {
-      "display_name": "Tivec",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T07:39:19.201Z"
     },
     {
       "display_name": "smygulf",
@@ -79,22 +103,10 @@
       "last_solved": "2020-12-22T08:16:41.344Z"
     },
     {
-      "display_name": "StateOfLimbo",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T08:29:13.470Z"
-    },
-    {
       "display_name": "Arkanor",
       "challenges_solved": "22",
       "eggs_solved": "10",
       "last_solved": "2020-12-22T08:43:00.093Z"
-    },
-    {
-      "display_name": "FairlyMagical",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T08:51:28.512Z"
     },
     {
       "display_name": "🦦lw",
@@ -175,12 +187,6 @@
       "last_solved": "2020-12-22T21:35:35.476Z"
     },
     {
-      "display_name": "SlalomKvark",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T22:18:22.784Z"
-    },
-    {
       "display_name": "Scalpel 🍷🎅",
       "challenges_solved": "22",
       "eggs_solved": "10",
@@ -209,12 +215,6 @@
       "challenges_solved": "22",
       "eggs_solved": "9",
       "last_solved": "2020-12-22T19:08:55.473Z"
-    },
-    {
-      "display_name": "clorin",
-      "challenges_solved": "22",
-      "eggs_solved": "8",
-      "last_solved": "2020-12-22T08:40:14.301Z"
     },
     {
       "display_name": "stigru",
@@ -289,6 +289,12 @@
       "last_solved": "2020-12-21T18:22:24.276Z"
     },
     {
+      "display_name": "Oldolo",
+      "challenges_solved": "19",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-23T06:37:24.967Z"
+    },
+    {
       "display_name": "chronos",
       "challenges_solved": "18",
       "eggs_solved": "8",
@@ -317,12 +323,6 @@
       "challenges_solved": "18",
       "eggs_solved": "7",
       "last_solved": "2020-12-21T21:10:07.121Z"
-    },
-    {
-      "display_name": "Oldolo",
-      "challenges_solved": "18",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-22T09:36:00.030Z"
     },
     {
       "display_name": "bitBug",
