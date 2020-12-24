@@ -1,16 +1,22 @@
 {
   "result": [
     {
+      "display_name": "WastefulNick",
+      "challenges_solved": "24",
+      "eggs_solved": "11",
+      "last_solved": "2020-12-24T11:39:28.994Z"
+    },
+    {
       "display_name": "unblvr",
       "challenges_solved": "24",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-23T23:59:18.218Z"
+      "eggs_solved": "11",
+      "last_solved": "2020-12-24T11:44:27.093Z"
     },
     {
       "display_name": "zup",
       "challenges_solved": "24",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-24T00:01:25.142Z"
+      "eggs_solved": "11",
+      "last_solved": "2020-12-24T11:54:42.865Z"
     },
     {
       "display_name": "SlalomKvark",
@@ -73,10 +79,16 @@
       "last_solved": "2020-12-24T09:54:03.084Z"
     },
     {
-      "display_name": "WastefulNick",
+      "display_name": "skuggen❐",
       "challenges_solved": "24",
       "eggs_solved": "10",
-      "last_solved": "2020-12-24T10:07:02.348Z"
+      "last_solved": "2020-12-24T11:27:59.319Z"
+    },
+    {
+      "display_name": "Ziggaloo",
+      "challenges_solved": "24",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-24T11:35:45.583Z"
     },
     {
       "display_name": "kalmakka",
@@ -107,12 +119,6 @@
       "challenges_solved": "23",
       "eggs_solved": "10",
       "last_solved": "2020-12-23T07:37:05.298Z"
-    },
-    {
-      "display_name": "skuggen❐",
-      "challenges_solved": "23",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-23T07:40:24.916Z"
     },
     {
       "display_name": "smygulf",
@@ -149,12 +155,6 @@
       "challenges_solved": "23",
       "eggs_solved": "10",
       "last_solved": "2020-12-23T09:54:58.279Z"
-    },
-    {
-      "display_name": "Ziggaloo",
-      "challenges_solved": "23",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-23T09:58:52.890Z"
     },
     {
       "display_name": "Arkanor",
