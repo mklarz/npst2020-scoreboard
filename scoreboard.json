@@ -19,6 +19,12 @@
       "last_solved": "2020-12-24T11:54:42.865Z"
     },
     {
+      "display_name": "FairlyMagical",
+      "challenges_solved": "24",
+      "eggs_solved": "11",
+      "last_solved": "2020-12-24T12:08:08.862Z"
+    },
+    {
       "display_name": "SlalomKvark",
       "challenges_solved": "24",
       "eggs_solved": "10",
@@ -55,12 +61,6 @@
       "last_solved": "2020-12-24T07:06:57.498Z"
     },
     {
-      "display_name": "FairlyMagical",
-      "challenges_solved": "24",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-24T07:46:42.830Z"
-    },
-    {
       "display_name": "jo_k_er",
       "challenges_solved": "24",
       "eggs_solved": "10",
@@ -91,22 +91,28 @@
       "last_solved": "2020-12-24T11:35:45.583Z"
     },
     {
+      "display_name": "Arkanor",
+      "challenges_solved": "24",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-24T12:04:59.108Z"
+    },
+    {
+      "display_name": "Røllik Münch",
+      "challenges_solved": "24",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-24T12:33:58.893Z"
+    },
+    {
+      "display_name": "0x1",
+      "challenges_solved": "24",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-24T12:49:53.725Z"
+    },
+    {
       "display_name": "kalmakka",
       "challenges_solved": "24",
       "eggs_solved": "8",
       "last_solved": "2020-12-24T03:26:34.104Z"
-    },
-    {
-      "display_name": "0x1",
-      "challenges_solved": "23",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-23T06:30:00.803Z"
-    },
-    {
-      "display_name": "Røllik Münch",
-      "challenges_solved": "23",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-23T06:30:19.858Z"
     },
     {
       "display_name": "fjank",
@@ -155,12 +161,6 @@
       "challenges_solved": "23",
       "eggs_solved": "10",
       "last_solved": "2020-12-23T09:54:58.279Z"
-    },
-    {
-      "display_name": "Arkanor",
-      "challenges_solved": "23",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-23T10:49:46.240Z"
     },
     {
       "display_name": "Pzzaroo",
@@ -271,16 +271,16 @@
       "last_solved": "2020-12-23T19:59:03.876Z"
     },
     {
+      "display_name": "SignalNoise",
+      "challenges_solved": "21",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-24T12:47:11.048Z"
+    },
+    {
       "display_name": "roys",
       "challenges_solved": "20",
       "eggs_solved": "9",
       "last_solved": "2020-12-23T18:45:00.852Z"
-    },
-    {
-      "display_name": "SignalNoise",
-      "challenges_solved": "20",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-22T18:59:39.236Z"
     },
     {
       "display_name": "enshar",
@@ -337,6 +337,12 @@
       "last_solved": "2020-12-23T20:48:13.436Z"
     },
     {
+      "display_name": "trønderhack",
+      "challenges_solved": "18",
+      "eggs_solved": "7",
+      "last_solved": "2020-12-24T12:52:32.690Z"
+    },
+    {
       "display_name": "betjent732",
       "challenges_solved": "18",
       "eggs_solved": "6",
@@ -383,12 +389,6 @@
       "challenges_solved": "17",
       "eggs_solved": "7",
       "last_solved": "2020-12-23T12:49:35.861Z"
-    },
-    {
-      "display_name": "trønderhack",
-      "challenges_solved": "17",
-      "eggs_solved": "7",
-      "last_solved": "2020-12-23T14:20:51.344Z"
     },
     {
       "display_name": "andreaspedersen",
