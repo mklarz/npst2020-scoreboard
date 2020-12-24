@@ -1,6 +1,12 @@
 {
   "result": [
     {
+      "display_name": "unblvr",
+      "challenges_solved": "24",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T23:59:18.218Z"
+    },
+    {
       "display_name": "jo_k_er",
       "challenges_solved": "23",
       "eggs_solved": "10",
@@ -77,12 +83,6 @@
       "challenges_solved": "23",
       "eggs_solved": "10",
       "last_solved": "2020-12-23T08:08:52.494Z"
-    },
-    {
-      "display_name": "unblvr",
-      "challenges_solved": "23",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-23T08:26:05.278Z"
     },
     {
       "display_name": "pingu",
@@ -205,6 +205,18 @@
       "last_solved": "2020-12-23T22:59:37.882Z"
     },
     {
+      "display_name": "fredrik",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T23:07:41.475Z"
+    },
+    {
+      "display_name": "eriknn",
+      "challenges_solved": "23",
+      "eggs_solved": "10",
+      "last_solved": "2020-12-23T23:44:41.224Z"
+    },
+    {
       "display_name": "clorin",
       "challenges_solved": "23",
       "eggs_solved": "8",
@@ -227,18 +239,6 @@
       "challenges_solved": "23",
       "eggs_solved": "7",
       "last_solved": "2020-12-23T17:25:28.314Z"
-    },
-    {
-      "display_name": "fredrik",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-22T10:21:21.323Z"
-    },
-    {
-      "display_name": "eriknn",
-      "challenges_solved": "22",
-      "eggs_solved": "10",
-      "last_solved": "2020-12-23T00:53:39.180Z"
     },
     {
       "display_name": "SolanGundersen",
@@ -343,6 +343,12 @@
       "last_solved": "2020-12-23T12:39:29.854Z"
     },
     {
+      "display_name": "Benjamin Prøvefjes",
+      "challenges_solved": "18",
+      "eggs_solved": "6",
+      "last_solved": "2020-12-23T23:44:04.816Z"
+    },
+    {
       "display_name": "bitBug",
       "challenges_solved": "17",
       "eggs_solved": "8",
@@ -389,12 +395,6 @@
       "challenges_solved": "17",
       "eggs_solved": "6",
       "last_solved": "2020-12-18T08:39:56.050Z"
-    },
-    {
-      "display_name": "Benjamin Prøvefjes",
-      "challenges_solved": "17",
-      "eggs_solved": "6",
-      "last_solved": "2020-12-22T19:18:58.579Z"
     },
     {
       "display_name": "📯 ostekake1",
@@ -5773,6 +5773,12 @@
       "last_solved": "2020-12-23T19:58:14.149Z"
     },
     {
+      "display_name": "pok",
+      "challenges_solved": "2",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-23T23:36:53.768Z"
+    },
+    {
       "display_name": "Alv1",
       "challenges_solved": "1",
       "eggs_solved": "1",
@@ -8807,12 +8813,6 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-22T21:44:41.775Z"
-    },
-    {
-      "display_name": "pok",
-      "challenges_solved": "1",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-23T21:51:29.020Z"
     },
     {
       "display_name": "betjent2081",
