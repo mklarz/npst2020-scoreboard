@@ -2947,6 +2947,12 @@
       "last_solved": "2020-12-22T20:12:31.762Z"
     },
     {
+      "display_name": "pok",
+      "challenges_solved": "5",
+      "eggs_solved": "1",
+      "last_solved": "2020-12-25T17:06:19.651Z"
+    },
+    {
       "display_name": "Whiptail Wurm",
       "challenges_solved": "5",
       "eggs_solved": "0",
@@ -3575,12 +3581,6 @@
       "challenges_solved": "4",
       "eggs_solved": "0",
       "last_solved": "2020-12-22T22:14:48.593Z"
-    },
-    {
-      "display_name": "pok",
-      "challenges_solved": "4",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-25T15:38:26.702Z"
     },
     {
       "display_name": "Eljardo",
@@ -8819,6 +8819,12 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-24T15:58:05.612Z"
+    },
+    {
+      "display_name": "HerrBarium",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-25T17:33:34.465Z"
     },
     {
       "display_name": "betjent2081",
