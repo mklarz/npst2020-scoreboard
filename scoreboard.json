@@ -1057,6 +1057,18 @@
       "last_solved": "2020-12-25T14:22:50.466Z"
     },
     {
+      "display_name": "opplegg",
+      "challenges_solved": "11",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-26T01:27:47.403Z"
+    },
+    {
+      "display_name": "ragev",
+      "challenges_solved": "11",
+      "eggs_solved": "2",
+      "last_solved": "2020-12-26T01:29:16.793Z"
+    },
+    {
       "display_name": "SondreNj",
       "challenges_solved": "11",
       "eggs_solved": "1",
@@ -1265,18 +1277,6 @@
       "challenges_solved": "10",
       "eggs_solved": "2",
       "last_solved": "2020-12-22T22:44:09.995Z"
-    },
-    {
-      "display_name": "ragev",
-      "challenges_solved": "10",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-25T23:28:36.162Z"
-    },
-    {
-      "display_name": "opplegg",
-      "challenges_solved": "10",
-      "eggs_solved": "2",
-      "last_solved": "2020-12-25T23:29:11.846Z"
     },
     {
       "display_name": "NissePappa",
@@ -1705,6 +1705,12 @@
       "last_solved": "2020-12-21T15:10:00.384Z"
     },
     {
+      "display_name": "pok",
+      "challenges_solved": "8",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-26T01:41:21.845Z"
+    },
+    {
       "display_name": "pasha_no",
       "challenges_solved": "8",
       "eggs_solved": "2",
@@ -1961,12 +1967,6 @@
       "challenges_solved": "7",
       "eggs_solved": "3",
       "last_solved": "2020-12-13T00:05:41.701Z"
-    },
-    {
-      "display_name": "pok",
-      "challenges_solved": "7",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-25T21:25:20.881Z"
     },
     {
       "display_name": "senpai",
