@@ -841,6 +841,12 @@
       "last_solved": "2020-12-20T13:14:53.647Z"
     },
     {
+      "display_name": "betjent2661",
+      "challenges_solved": "12",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-27T20:45:28.856Z"
+    },
+    {
       "display_name": "SimenBakken",
       "challenges_solved": "12",
       "eggs_solved": "2",
@@ -1055,12 +1061,6 @@
       "challenges_solved": "11",
       "eggs_solved": "3",
       "last_solved": "2020-12-21T16:18:45.532Z"
-    },
-    {
-      "display_name": "betjent2661",
-      "challenges_solved": "11",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-25T14:22:50.466Z"
     },
     {
       "display_name": "opplegg",
@@ -1861,16 +1861,16 @@
       "last_solved": "2020-12-07T07:34:37.077Z"
     },
     {
+      "display_name": "runarmod",
+      "challenges_solved": "7",
+      "eggs_solved": "5",
+      "last_solved": "2020-12-27T20:02:07.352Z"
+    },
+    {
       "display_name": "Skanin",
       "challenges_solved": "7",
       "eggs_solved": "4",
       "last_solved": "2020-12-11T09:36:02.692Z"
-    },
-    {
-      "display_name": "runarmod",
-      "challenges_solved": "7",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-12T20:21:40.395Z"
     },
     {
       "display_name": "betjent2495",
@@ -1967,6 +1967,12 @@
       "challenges_solved": "7",
       "eggs_solved": "3",
       "last_solved": "2020-12-13T00:05:41.701Z"
+    },
+    {
+      "display_name": "runarol",
+      "challenges_solved": "7",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-27T20:45:21.435Z"
     },
     {
       "display_name": "senpai",
@@ -2249,12 +2255,6 @@
       "challenges_solved": "6",
       "eggs_solved": "3",
       "last_solved": "2020-12-07T22:18:28.657Z"
-    },
-    {
-      "display_name": "runarol",
-      "challenges_solved": "6",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-09T19:50:46.717Z"
     },
     {
       "display_name": "betjent472",
@@ -8843,6 +8843,12 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-27T17:30:52.576Z"
+    },
+    {
+      "display_name": "betjent2806",
+      "challenges_solved": "1",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-27T20:58:58.434Z"
     },
     {
       "display_name": "betjent2081",
