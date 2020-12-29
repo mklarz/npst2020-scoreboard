@@ -847,6 +847,12 @@
       "last_solved": "2020-12-27T20:45:28.856Z"
     },
     {
+      "display_name": "pok",
+      "challenges_solved": "12",
+      "eggs_solved": "3",
+      "last_solved": "2020-12-29T20:44:27.354Z"
+    },
+    {
       "display_name": "SimenBakken",
       "challenges_solved": "12",
       "eggs_solved": "2",
@@ -1061,12 +1067,6 @@
       "challenges_solved": "11",
       "eggs_solved": "3",
       "last_solved": "2020-12-21T16:18:45.532Z"
-    },
-    {
-      "display_name": "pok",
-      "challenges_solved": "11",
-      "eggs_solved": "3",
-      "last_solved": "2020-12-27T23:25:18.399Z"
     },
     {
       "display_name": "opplegg",
