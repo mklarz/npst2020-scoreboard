@@ -4741,6 +4741,12 @@
       "last_solved": "2020-12-22T16:55:40.015Z"
     },
     {
+      "display_name": "systemctl",
+      "challenges_solved": "3",
+      "eggs_solved": "0",
+      "last_solved": "2020-12-30T19:36:26.251Z"
+    },
+    {
       "display_name": "betjent577",
       "challenges_solved": "2",
       "eggs_solved": "2",
@@ -8849,12 +8855,6 @@
       "challenges_solved": "1",
       "eggs_solved": "0",
       "last_solved": "2020-12-26T17:35:55.780Z"
-    },
-    {
-      "display_name": "systemctl",
-      "challenges_solved": "1",
-      "eggs_solved": "0",
-      "last_solved": "2020-12-27T17:30:52.576Z"
     },
     {
       "display_name": "Veal",
