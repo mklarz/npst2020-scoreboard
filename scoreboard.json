@@ -619,6 +619,12 @@
       "last_solved": "2020-12-22T23:13:22.079Z"
     },
     {
+      "display_name": "pok",
+      "challenges_solved": "14",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-30T23:36:06.172Z"
+    },
+    {
       "display_name": "vebxor",
       "challenges_solved": "14",
       "eggs_solved": "3",
@@ -839,12 +845,6 @@
       "challenges_solved": "12",
       "eggs_solved": "4",
       "last_solved": "2020-12-22T02:25:09.198Z"
-    },
-    {
-      "display_name": "pok",
-      "challenges_solved": "12",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-29T22:33:03.239Z"
     },
     {
       "display_name": "SPST-agent",
