@@ -553,6 +553,12 @@
       "last_solved": "2020-12-20T23:31:40.943Z"
     },
     {
+      "display_name": "pok",
+      "challenges_solved": "15",
+      "eggs_solved": "4",
+      "last_solved": "2020-12-31T15:55:30.598Z"
+    },
+    {
       "display_name": "yens",
       "challenges_solved": "15",
       "eggs_solved": "3",
@@ -617,12 +623,6 @@
       "challenges_solved": "14",
       "eggs_solved": "4",
       "last_solved": "2020-12-22T23:13:22.079Z"
-    },
-    {
-      "display_name": "pok",
-      "challenges_solved": "14",
-      "eggs_solved": "4",
-      "last_solved": "2020-12-30T23:36:06.172Z"
     },
     {
       "display_name": "vebxor",
